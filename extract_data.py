@@ -7,11 +7,14 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 # please make sure your spotify api is activated before running
 
-auth_manager = SpotifyClientCredentials()
-sp = spotipy.Spotify(auth_manager=auth_manager)
+SPOTIPY_CLIENT_ID="a73fd176465040b4815ae85f848cd2c9"
+SPOTIPY_CLIENT_SECRET="f93b8a63b9704dbf883fe5072ef64c7d"
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET))
+#auth_manager = SpotifyClientCredentials()
+#sp = spotipy.Spotify(auth_manager=auth_manager)
 
-start = 1980
-end = 1990
+start = 2009
+end = 2020
 
 for i in range(start, end + 1):
 
@@ -27,8 +30,14 @@ for i in range(start, end + 1):
     hashmap = {}
 
 # obtain song attributes from the spotify api and append the results into output
+    stop_words=["featuring", "x", "With", "&", "with", "of", "the", "or", "patrick", "(featuring", "t-pain)", "bow", "wow", "duet", "stump", "Featuring", "And", "Introducing"]
+    
     for song in songs:
-        results = sp.search(q = 'track:' + song[0] + ' ' + 'artist:' + song[1], type = 'track')
+        artist=song[1]
+        artist=[s.lower() for s in artist.split() if s.lower() not in stop_words]
+        artist=(' '.join(artist))
+        #print(artist)
+        results = sp.search(q = 'track:' + song[0] + ' ' + 'artist:' + artist, type = 'track')
         try:
             name = results['tracks']['items'][0]['name']
             hashmap[name] = 1
@@ -57,4 +66,4 @@ for i in range(start, end + 1):
     df = pd.DataFrame(output)
     df.columns = ['track', 'artist', 'spotify_id', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature']
 
-    df.to_csv('years/'+year+'.csv')
+    df.to_csv('clean_data_2007_2020/'+year+'.csv')
