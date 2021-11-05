@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    body {
+      font-weight: 300;
+      fill: #242424;
+      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      cursor: default;
+    }
+
+  </style>
+  <title>Radar Chart</title>
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="../lib/d3.v5.min.js"></script>
+  <script type="text/javascript" src="../lib/d3-dsv.min.js"></script>
+  <script src="radarChart.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <div>
+    <label>Select Year: </label>
+    <select id="yearDropdown"></select>
+  </div>
+
+  <script>
+    var margin = { top: 50, right: 80, bottom: 50, left: 80 },
+      width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+      height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+
+    var files = [];
+    for (var i = 1980; i <= 2021; i++) {
+      files.push(i.toString());
+    }
+
+    file = "1980";
+    graph(file);
+    var drop_down_option = d3
+      .select("#yearDropdown")
+      .selectAll("option")
+      .data(files)
+      .enter()
+      .append("option")
+      .attr("value", function (d) {
+        return d;
+      })
+      .append("text")
+      .text(function (d) {
+        return d;
+      });
+    d3.select("#yearDropdown").on("change", change);
+
+    function change(d) {
+      del();
+      file = d3.select(this).property("value");
+      graph(file);
+    }
+
+    function del() {
+      d3.select("svg").remove();
+    }
+    function graph(file) {
+      var path = "../data/" + file + ".csv";
+      d3.dsv(",", path).then(function (data) {
+        var popular = [];
+        var not_popular = [];
+        var total_data_number = data.length;
+
+        for (var i = 0; i < total_data_number; i++) {
+          if (data[i].weeks > 10) {
+            data[i].popular = 1;
+          } else {
+            data[i].popular = 0;
+          }
+        }
+
+        // Divide into popular and not popular
+
+        for (var i = 0; i < total_data_number; i++) {
+          if (data[i].popular == 1) {
+            popular.push(data[i]);
+          } else {
+            not_popular.push(data[i]);
+          }
+        }
+        var features = [
+          "danceability",
+          "loudness",
+          "speechiness",
+          "tempo",
+          "valence",
+          "energy",
+        ];
+
+        //Define Scale
+        let tempoScale = d3.scaleLinear().domain([0, 150]).range([0, 10]);
+
+        let loudScale = d3.scaleLinear().domain([0, 18]).range([0, 10]);
+
+        let energyScale = d3.scaleLinear().domain([0, 1]).range([0, 10]);
+
+        let danceScale = d3.scaleLinear().domain([0, 1]).range([0, 10]);
+
+        let valanceScale = d3.scaleLinear().domain([0, 1]).range([0, 10]);
+
+        let speechScale = d3.scaleLinear().domain([0, 1]).range([0, 10]);
+
+        // Calculate the average of features
+        var pop_dance_avg = 0;
+        var pop_loud_avg = 0;
+        var pop_speech_avg = 0;
+        var pop_tempo_avg = 0;
+        var pop_valance_avg = 0;
+        var pop_energy_avg = 0;
+        for (var i = 0; i < popular.length; i++) {
+          pop_dance_avg += parseFloat(popular[i].danceability);
+          pop_loud_avg += parseFloat(popular[i].loudness);
+          pop_speech_avg += parseFloat(popular[i].speechiness);
+          pop_tempo_avg += parseFloat(popular[i].tempo);
+          pop_valance_avg += parseFloat(popular[i].valence);
+          pop_energy_avg += parseFloat(popular[i].energy);
+        }
+        var pop_len = popular.length;
+
+        pop_dance_avg = danceScale(pop_dance_avg / pop_len);
+        pop_loud_avg = loudScale((pop_loud_avg / pop_len) * -1);
+        pop_speech_avg = speechScale(pop_speech_avg / pop_len);
+        pop_tempo_avg = tempoScale(pop_tempo_avg / pop_len);
+        pop_valance_avg = valanceScale(pop_valance_avg / pop_len);
+        pop_energy_avg = energyScale(pop_energy_avg / pop_len);
+
+        var unpop_dance_avg = 0;
+        var unpop_loud_avg = 0;
+        var unpop_speech_avg = 0;
+        var unpop_tempo_avg = 0;
+        var unpop_valance_avg = 0;
+        var unpop_energy_avg = 0;
+        for (var i = 0; i < not_popular.length; i++) {
+          unpop_dance_avg += parseFloat(not_popular[i].danceability);
+          unpop_loud_avg += parseFloat(not_popular[i].loudness);
+          unpop_speech_avg += parseFloat(not_popular[i].speechiness);
+          unpop_tempo_avg += parseFloat(not_popular[i].tempo);
+          unpop_valance_avg += parseFloat(not_popular[i].valence);
+          unpop_energy_avg += parseFloat(not_popular[i].energy);
+        }
+        var unpop_len = not_popular.length;
+        unpop_dance_avg = danceScale(unpop_dance_avg / unpop_len);
+        unpop_loud_avg = loudScale((unpop_loud_avg / unpop_len) * -1);
+        unpop_speech_avg = speechScale(unpop_speech_avg / unpop_len);
+        unpop_tempo_avg = tempoScale(unpop_tempo_avg / unpop_len);
+        unpop_valance_avg = valanceScale(unpop_valance_avg / unpop_len);
+        unpop_energy_avg = energyScale(unpop_energy_avg / unpop_len);
+
+        var compare_data = [
+          [
+            //popular
+            { axis: "danceability", value: pop_dance_avg },
+            { axis: "loudness", value: pop_loud_avg },
+            { axis: "speechiness", value: pop_speech_avg },
+            { axis: "tempo", value: pop_tempo_avg },
+            { axis: "valance", value: pop_valance_avg },
+            { axis: "energy", value: pop_energy_avg },
+          ],
+          [
+            //not_popular
+            { axis: "danceability", value: unpop_dance_avg },
+            { axis: "loudness", value: unpop_loud_avg },
+            { axis: "speechiness", value: unpop_speech_avg },
+            { axis: "tempo", value: unpop_tempo_avg },
+            { axis: "valance", value: unpop_valance_avg },
+            { axis: "energy", value: unpop_energy_avg },
+          ],
+        ];
+
+        let svg = d3
+          .select("body")
+          .append("svg")
+          .attr("width", 600)
+          .attr("height", 600)
+          .append("g") //show top and left
+          .attr("transform", "translate(" + 10 + "," + 20 + ")");
+
+        svg
+          .append("text")
+          .attr("id", "bar_chart_title")
+          .attr("x", width + 280)
+          .attr("y", margin.top - 40)
+          .style("font-size", "20px")
+          .style("text-anchor", "middle")
+          .text("Popular songs vs. Not popular songs in year " + file);
+
+        let radialScale = d3.scaleLinear().domain([0, 10]).range([0, 250]);
+        let ticks = [2, 4, 6, 8, 10];
+
+        ticks.forEach((t) =>
+          svg
+            .append("circle")
+            .attr("cx", 300)
+            .attr("cy", 300)
+            .attr("fill", "none")
+            .attr("stroke", "gray")
+            .attr("r", radialScale(t))
+        );
+
+        ticks.forEach((t) =>
+          svg
+            .append("text")
+            .attr("x", 305)
+            .attr("y", 300 - radialScale(t))
+            .text(t.toString())
+        );
+
+        //console.log(energyScale(compare_data[0].axes[5].value));
+        function angleToCoordinate(angle, value) {
+          let x = Math.cos(angle) * radialScale(value);
+          let y = Math.sin(angle) * radialScale(value);
+          return { x: 300 + x, y: 300 - y };
+        }
+
+        for (var i = 0; i < features.length; i++) {
+          let ft_name = features[i];
+          let angle = Math.PI / 2 + (2 * Math.PI * i) / features.length;
+          let line_coordinate = angleToCoordinate(angle, 10);
+          let label_coordinate = angleToCoordinate(angle, 10.5);
+
+          //draw axis line
+          svg
+            .append("line")
+            .attr("x1", 300)
+            .attr("y1", 300)
+            .attr("x2", line_coordinate.x)
+            .attr("y2", line_coordinate.y)
+            .attr("stroke", "black");
+
+          //draw axis label
+          svg
+            .append("text")
+            .attr("x", label_coordinate.x)
+            .attr("y", label_coordinate.y)
+            .text(ft_name);
+        }
+
+        let line = d3
+          .line()
+          .x((d) => d.x)
+          .y((d) => d.y);
+        let colors = ["#264653", "#F4A261"];
+
+        function getPathCoordinates(data_point) {
+          let coordinates = [];
+          for (var i = 0; i < features.length; i++) {
+            let ft_name = features[i];
+            let angle = Math.PI / 2 + (2 * Math.PI * i) / features.length;
+            //console.log(angle);
+            coordinates.push(angleToCoordinate(angle, data_point[i]));
+          }
+          return coordinates;
+        }
+
+        for (var i = 0; i < compare_data.length; i++) {
+          var temp_data = [];
+          for (var j = 0; j < compare_data[i].length; j++) {
+            temp_data.push(compare_data[i][j].value);
+          }
+          //let d = compare_data[i];
+          let color = colors[i];
+          let coordinates = getPathCoordinates(temp_data);
+
+          //draw the path element
+          svg
+            .append("path")
+            .datum(coordinates)
+            .attr("d", line)
+            .attr("id", i)
+            .attr("stroke-width", 3)
+            .attr("stroke", color)
+            .attr("fill", color)
+            .attr("stroke-opacity", 1)
+            .attr("opacity", 0.5)
+            .on("mouseover", function (d, i) {
+              d3.select(this)
+                .transition()
+                .duration(1)
+                .attr("opacity", 0.9)
+                .attr("stroke-width", 10);
+
+              var context = "popular";
+              if (this.id != 0) {
+                context = "not-popular";
+              }
+
+              var label = svg
+                .append("text")
+                .attr("id", "lablel-on")
+                .attr("x", d3.event.pageX)
+                .attr("y", d3.event.pageY)
+                .style("font-size", "15px")
+                .style("text-anchor", "middle")
+                .style("display", "display")
+                .text(context);
+            })
+            .on("mouseout", function (d, i) {
+              d3.select(this)
+                .transition()
+                .duration(1)
+                .attr("opacity", 0.5)
+                .attr("stroke-width", 3);
+              d3.select("#lablel-on").style("display", "none").remove();
+            });
+        }
+      });
+    }
+  </script>
+</body>
