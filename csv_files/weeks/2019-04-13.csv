@@ -1,0 +1,101 @@
+,match,billboard_track,spotify_track,billboard_artist,spotify_artist,spotify_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,weeks
+0,0.5868983957219251,Old Town Road,Old Town Road - Remix,Lil Nas X Featuring Billy Ray Cyrus,"['Lil Nas X', 'Billy Ray Cyrus']",2YpeDb67231RjR0MgVLzsG,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,157067,4,5
+1,0.8333333333333333,Sunflower (Spider-Man: Into The Spider-Verse),Sunflower - Spider-Man: Into the Spider-Verse,Post Malone & Swae Lee,"['Post Malone', 'Swae Lee']",3KkXRkHbMCARz0aVfEt68P,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,4,24
+2,1.0,7 Rings,7 rings,Ariana Grande,['Ariana Grande'],6ocbgoVGwYJhOv1GgI9NsF,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,178627,4,11
+3,1.0,Wow.,Wow.,Post Malone,['Post Malone'],7xQAfvXzm3AkraOtGPWIZg,0.829,0.539,11,-7.359,0,0.208,0.136,1.78e-06,0.103,0.388,99.96,149547,4,15
+4,1.0,Without Me,Without Me,Halsey,['Halsey'],5p7ujcrUXASCNwRaWNHR1C,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661,4,26
+5,0.7592592592592593,Please Me,Please Me,Cardi B & Bruno Mars,"['Cardi B', 'Bruno Mars']",0PG9fbaaHFHfre2gUVo7AN,0.747,0.57,1,-6.711,1,0.081,0.0642,0.0,0.0832,0.65,133.992,200890,4,7
+6,1.0,Bad Guy,bad guy,Billie Eilish,['Billie Eilish'],2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,1
+7,1.0,Sucker,Sucker,Jonas Brothers,['Jonas Brothers'],22vgEDb5hykfaTwLuskFGD,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,181027,4,5
+8,0.8225806451612903,Happier,Happier,Marshmello & Bastille,"['Marshmello', 'Bastille']",2dpaYNEQHiRxtZbfNsse99,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290,4,33
+9,1.0,Middle Child,MIDDLE CHILD,J. Cole,['J. Cole'],2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,8,-11.713,1,0.276,0.149,0.0,0.271,0.463,123.984,213594,4,11
+10,0.7571428571428571,Shallow,Shallow,Lady Gaga & Bradley Cooper,"['Lady Gaga', 'Bradley Cooper']",2VxeLyX666F8uXCJ0dZF8B,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,215733,4,27
+11,0.4978111319574734,Eastside,Eastside (with Halsey & Khalid),"benny blanco, Halsey & Khalid","['benny blanco', 'Halsey', 'Khalid']",0d2iYfpKoM0QCKvcLCkBao,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,173800,4,38
+12,1.0,Thotiana,Thotiana,Blueface,['Blueface'],5GBuCHuPKx6UC7VsSPK0t3,0.906,0.382,10,-12.89,0,0.269,0.18,0.0,0.113,0.391,104.025,129264,4,12
+13,0.5459558823529411,Going Bad,Going Bad (feat. Drake),Meek Mill Featuring Drake,"['Meek Mill', 'Drake']",2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,4,-6.365,0,0.0905,0.259,0.0,0.252,0.544,86.003,180522,4,18
+14,0.6984777517564402,Dancing With A Stranger,Dancing With A Stranger (with Normani),Sam Smith & Normani,"['Sam Smith', 'Normani']",6Qs4SXO9dwPj5GKvVOv8Ki,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,171030,4,12
+15,1.0,Better,Better,Khalid,['Khalid'],6zeeWid2sgw4lap2jV61PZ,0.596,0.552,0,-10.278,0,0.097,0.0765,0.334,0.104,0.112,97.949,229320,4,29
+16,1.0,High Hopes,High Hopes,Panic! At The Disco,['Panic! At The Disco'],1rqqCSm0Qe4I9rUvWncaom,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,190947,4,35
+17,1.0,"Break Up With Your Girlfriend, I'm Bored","break up with your girlfriend, i'm bored",Ariana Grande,['Ariana Grande'],4kV4N9D1iKVxx1KLvtTpjS,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,190440,4,8
+18,1.0,Sweet But Psycho,Sweet but Psycho,Ava Max,['Ava Max'],7DnAm9FOTWE3cUvso43HhI,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,187436,4,16
+19,1.0,Sicko Mode,SICKO MODE,Travis Scott,['Travis Scott'],2xLMifQCjDGFmkHkpNLD9h,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,312820,4,35
+20,1.0,Murder On My Mind,Murder On My Mind,YNW Melly,['YNW Melly'],7eBqSVxrzQZtK2mmgRG6lC,0.759,0.73,0,-7.985,0,0.0516,0.145,3.06e-06,0.11,0.74,115.007,268434,4,11
+21,1.0,A Lot,a lot,21 Savage,['21 Savage'],2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,1,-7.643,1,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,4,15
+22,0.461100569259962,Girls Like You,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5 Featuring Cardi B,"['Maroon 5', 'Cardi B']",6V1bu6o1Yo5ZXnsCJU8Ovk,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,235545,4,45
+23,1.0,"Thank U, Next","thank u, next",Ariana Grande,['Ariana Grande'],3e9HZxeyfWwjeyPAMmWSSQ,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,207320,4,22
+24,1.0,Bury A Friend,bury a friend,Billie Eilish,['Billie Eilish'],4SSnFejRGlZikf02HLewEF,0.905,0.389,8,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,193143,4,10
+25,1.0,Beautiful Crazy,Beautiful Crazy,Luke Combs,['Luke Combs'],2rxQMGVafnNaRaXlRMWPde,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,193200,4,21
+26,0.4660839160839161,Close To Me,Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding X Diplo Featuring Swae Lee,"['Ellie Goulding', 'Diplo', 'Swae Lee']",5JEx7HbmvHQQswJCsoo9rA,0.575,0.758,1,-5.029,0,0.0618,0.0954,0.0,0.394,0.493,144.107,182623,4,20
+27,1.0,Be Alright,Be Alright,Dean Lewis,['Dean Lewis'],3EPXxR3ImUwfayaurPi3cm,0.553,0.586,11,-6.319,1,0.0362,0.697,0.0,0.0813,0.443,126.684,196373,4,23
+28,1.0,When The Party's Over,when the party's over,Billie Eilish,['Billie Eilish'],43zdsphuZLzwA9k4DJhU0I,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,196077,4,21
+29,0.6222222222222222,Drip Too Hard,Drip Too Hard (Lil Baby & Gunna),Lil Baby & Gunna,"['Lil Baby', 'Gunna']",78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,145543,4,29
+30,1.0,Wish You Were Gay,wish you were gay,Billie Eilish,['Billie Eilish'],3Fj47GNK2kUF0uaEDgXLaD,0.853,0.351,7,-10.198,1,0.241,0.39,9.38e-06,0.752,0.282,118.028,221543,4,5
+31,1.0,You Say,You Say,Lauren Daigle,['Lauren Daigle'],6Up545NUflOiXo8cEraH49,0.494,0.632,5,-6.89,1,0.0342,0.682,0.0,0.0869,0.0797,147.873,274693,4,38
+32,0.6212121212121212,Pure Water,Pure Water (with Migos),Mustard & Migos,"['Mustard', 'Migos']",3j84U36KvLeXNDPv4t5pI8,0.682,0.559,0,-5.545,1,0.127,0.174,0.0,0.344,0.137,202.015,192471,4,10
+33,1.0,Better Now,Better Now,Post Malone,['Post Malone'],7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,231267,4,49
+34,1.0,Xanny,xanny,Billie Eilish,['Billie Eilish'],4QIo4oxwzzafcBWkKjDpXY,0.521,0.125,9,-17.832,1,0.239,0.751,0.00207,0.265,0.0528,111.554,243725,4,1
+35,1.0,Money,Money,Cardi B,['Cardi B'],2GGMabyHXnJmjY6CXhhB2e,0.95,0.59,8,-6.508,0,0.29,0.00534,0.0,0.11,0.219,130.003,183527,4,24
+36,1.0,Look Back At It,Look Back at It,A Boogie Wit da Hoodie,['A Boogie Wit da Hoodie'],3Ol2xnObFdKV9pmRD2t9x8,0.791,0.587,3,-5.075,0,0.0413,0.407,0.0,0.148,0.536,96.057,179449,4,17
+37,1.0,Envy Me,Envy Me,Calboy,['Calboy'],7rvyVWja33WG9R97oeJAjx,0.74,0.488,1,-7.664,0,0.27,0.234,0.0,0.241,0.584,149.042,120133,4,16
+38,0.6481481481481481,Talk,Talk (feat. Disclosure),Khalid,"['Khalid', 'Disclosure']",6TqXcAFInzjp0bODyvrWEq,0.9,0.4,0,-8.575,1,0.127,0.0516,0.0,0.0599,0.346,135.984,197573,4,8
+39,1.0,Youngblood,Youngblood,5 Seconds Of Summer,['5 Seconds of Summer'],2iUXsYOEPhVqEBwsqP70rE,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,203418,4,44
+40,1.0,You Should See Me In A Crown,you should see me in a crown,Billie Eilish,['Billie Eilish'],3XF5xLJHOQQRbWya6hBp7d,0.678,0.533,4,-10.485,1,0.186,0.462,0.219,0.139,0.323,150.455,180953,4,2
+41,1.0,Baby Shark,Baby Shark,Pinkfong,['Pinkfong'],5ygDXis42ncn6kYG14lEVG,0.829,0.886,8,-1.746,1,0.112,0.259,0.0,0.0559,0.777,115.056,80927,4,14
+42,1.0,My Strange Addiction,my strange addiction,Billie Eilish,['Billie Eilish'],3Tc57t9l2O8FwQZtQOvPXK,0.939,0.305,8,-10.952,0,0.354,0.35,0.000169,0.105,0.563,100.029,179889,4,1
+43,0.49556650246305417,Racks In The Middle,Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,"['Nipsey Hussle', 'Roddy Ricch', 'Hit-Boy']",6ya8ejoKgw906Y8LWclqrp,0.671,0.833,5,-5.152,0,0.395,0.0825,0.0,0.0726,0.702,79.351,233278,4,1
+44,0.41470588235294115,MIA,MIA (feat. Drake),Bad Bunny Featuring Drake,"['Bad Bunny', 'Drake']",116H0KvKr2Zl4RPuVBruDO,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.062,210368,4,25
+45,1.0,All The Good Girls Go To Hell,all the good girls go to hell,Billie Eilish,['Billie Eilish'],6IRdLKIyS4p7XNiP8r6rsx,0.726,0.444,8,-8.922,0,0.372,0.283,0.143,0.177,0.569,185.044,168840,4,1
+46,1.0,Act Up,Act Up,City Girls,['City Girls'],3A2yGHWIzmGEIolwonU69h,0.938,0.638,8,-4.713,1,0.189,0.0167,0.0,0.111,0.313,97.075,158332,4,5
+47,1.0,Robbery,Robbery,Juice WRLD,['Juice WRLD'],6Hj9jySrnFppAI0sEMCZpJ,0.685,0.692,2,-5.122,1,0.0457,0.328,0.0,0.153,0.578,159.966,240051,5,7
+48,0.30896686159844056,ZEZE,ZEZE (feat. Travis Scott & Offset),Kodak Black Featuring Travis Scott & Offset,"['Kodak Black', 'Offset', 'Travis Scott']",0FZ4Dmg8jJJAPJnvBIzD9z,0.861,0.603,8,-5.788,0,0.176,0.0521,0.0,0.0924,0.504,98.043,228760,4,25
+49,1.0,Tequila,Tequila,Dan + Shay,['Dan + Shay'],42fw0rxRO2xbesF6mJfd4Y,0.489,0.581,11,-5.731,1,0.0281,0.0312,0.0,0.132,0.494,86.016,196747,4,48
+50,1.0,Here Tonight,Here Tonight,Brett Young,['Brett Young'],38nVuIj9mi5a8oopOJhSJk,0.517,0.776,11,-5.271,1,0.0362,0.0144,0.0,0.113,0.448,96.002,216533,4,13
+51,0.5881720430107527,Swervin,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie Featuring 6ix9ine,"['A Boogie Wit da Hoodie', '6ix9ine']",1wJRveJZLSb1rjhnUHQiv6,0.581,0.662,9,-5.239,1,0.303,0.0153,0.0,0.111,0.434,93.023,189487,4,15
+52,1.0,I Love You,i love you,Billie Eilish,['Billie Eilish'],6CcJMwBtXByIz4zQLzFkKc,0.421,0.131,0,-18.435,1,0.0382,0.952,0.00453,0.109,0.12,137.446,291796,4,1
+53,0.5641025641025641,Mixed Personalities,Mixed Personalities (feat. Kanye West),YNW Melly Featuring Kanye West,"['YNW Melly', 'Kanye West']",6vWEAOUSxohKxhp0K1BsxL,0.661,0.44,2,-9.104,1,0.0803,0.457,0.0,0.128,0.352,149.937,230400,4,11
+54,0.7564102564102564,Here With Me,Here With Me,Marshmello Featuring CHVRCHES,"['Marshmello', 'CHVRCHES']",5icOoE6VgqFKohjWWNp0Ac,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347,4,4
+55,0.7580645161290323,Who Do You Love,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,"['The Chainsmokers', '5 Seconds of Summer']",2fVHrSxsQbJUuj9MW9zG1e,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,226733,4,8
+56,0.5551020408163265,Put A Date On It,Put a Date On It (feat. Lil Baby),Yo Gotti Featuring Lil Baby,"['Yo Gotti', 'Lil Baby']",6PRh0ilIMEP1xlUHqalnkD,0.835,0.659,4,-5.696,1,0.31,0.0123,0.0,0.372,0.579,129.93,195257,4,10
+57,0.7307692307692308,Con Calma,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,"['Daddy Yankee', 'Snow']",3ZQIxnDxDiJLnNMDpM7JlJ,0.737,0.86,8,-2.652,0,0.0594,0.11,1.94e-06,0.0574,0.656,93.989,193227,4,9
+58,1.0,God's Country,God's Country,Blake Shelton,['Blake Shelton'],1dyxS3YzBbL0t8rEVwVQ1K,0.538,0.752,10,-5.106,1,0.0396,0.0608,5.39e-06,0.118,0.217,139.984,205107,4,1
+59,1.0,Worth It,Worth It,YK Osiris,['YK Osiris'],0PQoUlzP7ILdcrzpajHXc0,0.749,0.535,5,-4.054,0,0.0638,0.517,0.0,0.0942,0.459,124.008,189253,5,7
+60,1.0,Eyes On You,Eyes On You,Chase Rice,['Chase Rice'],5AnSllIrgGsCZzZJkVnApx,0.606,0.652,9,-6.982,1,0.0281,0.323,0.0,0.201,0.476,97.155,182493,4,7
+61,1.0,Ilomilo,ilomilo,Billie Eilish,['Billie Eilish'],7qEKqBCD2vE5vIBsrUitpD,0.855,0.423,5,-15.044,0,0.0585,0.724,0.469,0.0896,0.572,120.02,156371,4,1
+62,1.0,Listen Before I Go,listen before i go,Billie Eilish,['Billie Eilish'],0tMSssfxAL2oV8Vri0mFHE,0.319,0.0561,0,-23.023,1,0.045,0.935,0.00384,0.388,0.082,79.764,242652,3,1
+63,0.7888888888888889,Close Friends,Close Friends (Lil Baby & Gunna),Lil Baby,['Lil Baby'],5nzhL67GpF9szXWg5y509A,0.676,0.578,10,-4.669,0,0.375,0.0509,0.0,0.0796,0.698,158.896,203881,4,23
+64,0.41964285714285715,Double Up,Double Up (feat. Belly and Dom Kennedy),Nipsey Hussle Featuring Belly & DOM KENNEDY,"['Nipsey Hussle', 'Belly', 'Dom Kennedy']",4iVD0fTHGxV9JWloujsL3s,0.604,0.436,2,-8.32,1,0.188,0.0544,0.000242,0.162,0.239,107.978,361280,4,1
+65,1.0,Bad Liar,Bad Liar,Imagine Dragons,['Imagine Dragons'],2RSHsoi04658QL5xgQVov3,0.383,0.637,3,-6.993,1,0.0703,0.0722,0.0,0.368,0.0827,177.913,260773,4,6
+66,1.0,Whiskey Glasses,Whiskey Glasses,Morgan Wallen,['Morgan Wallen'],6foY66mWZN0pSRjZ408c00,0.614,0.68,6,-4.58,1,0.0289,0.369,1.84e-06,0.115,0.707,149.959,234347,4,5
+67,1.0,Good As You,Good as You,Kane Brown,['Kane Brown'],19kUPdKTp85q9RZNwaXM15,0.626,0.516,8,-6.05,1,0.0388,0.4,0.0,0.142,0.769,153.653,192053,4,6
+68,1.0,One That Got Away,One That Got Away,Michael Ray,['Michael Ray'],2TLDilmv1UmRTfyb7f2Hrx,0.565,0.825,10,-4.245,1,0.0417,0.00303,0.0,0.0779,0.609,160.003,218733,4,6
+69,0.5128518971848225,Monopoly,MONOPOLY (with Victoria Monét),Ariana Grande & Victoria Monet,"['Ariana Grande', 'Victoria Monét']",6tsOcBnaKgzK22yEiqRh8P,0.892,0.507,0,-8.282,1,0.378,0.704,3.14e-05,0.109,0.695,143.96,158587,4,1
+70,1.0,Miss Me More,Miss Me More,Kelsea Ballerini,['Kelsea Ballerini'],5NfJGBAL9mgFPRQxKJmiX2,0.643,0.72,2,-7.146,1,0.0527,0.014,0.0,0.0834,0.491,96.028,192840,4,9
+71,1.0,Shot Clock,Shot Clock,Ella Mai,['Ella Mai'],2GlATHCDbLW7xq5BE0Bz5g,0.512,0.512,4,-6.008,0,0.285,0.654,0.0,0.148,0.434,95.11,201609,1,10
+72,1.0,Make It Sweet,Make It Sweet,Old Dominion,['Old Dominion'],3Mnr3yyQk1aUPYgbpOQE31,0.424,0.837,7,-4.453,1,0.0472,0.0373,0.0,0.0665,0.554,180.175,187000,4,14
+73,1.0,Look What God Gave Her,Look What God Gave Her,Thomas Rhett,['Thomas Rhett'],2KqJC0koTBUyDlsMt5ok1V,0.739,0.85,2,-3.966,1,0.0308,0.0272,0.0,0.181,0.883,113.0,168960,4,5
+74,1.0,There Was This Girl,There Was This Girl,Riley Green,['Riley Green'],7grWGhX8SHNmyGOkMNVMCt,0.616,0.877,1,-4.223,1,0.0347,0.00258,2.56e-06,0.114,0.94,127.981,194427,4,6
+75,0.6764705882352942,Girls Need Love,Girls Need Love (with Drake) - Remix,Summer Walker X Drake,"['Summer Walker', 'Drake']",14SaZBTjxlorHJQxXh01Hu,0.656,0.432,6,-9.481,0,0.217,0.443,0.0,0.132,0.0897,97.022,222374,4,6
+76,1.0,Undrunk,Undrunk,FLETCHER,['FLETCHER'],1Pj5oOFzLYELyyeh1IYRK0,0.442,0.579,5,-6.484,1,0.145,0.489,1.04e-06,0.126,0.546,83.336,183428,4,4
+77,0.39545454545454545,I've Been Waiting,I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy),Lil Peep & iLoveMakonnen Featuring Fall Out Boy,"['Lil Peep', 'ILOVEMAKONNEN', 'Fall Out Boy']",2v5JTeM6hSmi5wWy7jiwrI,0.741,0.845,5,-3.568,0,0.0381,0.15,0.0,0.174,0.926,129.939,233613,4,4
+78,1.0,8,8,Billie Eilish,['Billie Eilish'],6X29iaaazwho3ab7GNue5r,0.735,0.235,3,-13.239,1,0.315,0.698,0.00604,0.107,0.462,62.446,173202,4,1
+79,1.0,Walk Me Home,Walk Me Home,P!nk,['P!nk'],7DHApOHsIFo7EyfieArYGE,0.652,0.453,1,-6.119,1,0.0445,0.0507,0.0,0.179,0.432,88.039,177391,3,5
+80,0.74,Saturday Nights,Saturday Nights,Khalid & Kane Brown,['Khalid'],5kfNriitmkNE8mUbZ7gbq8,0.551,0.44,10,-8.559,1,0.0985,0.606,3.02e-05,0.11,0.341,167.923,210667,4,9
+81,0.7401129943502824,Last Time That I Checc'd,Last Time That I Checc'd (feat. YG),Nipsey Hussle Featuring YG,"['Nipsey Hussle', 'YG']",39xWBHPM4E9MwzEy5gbM7p,0.711,0.746,1,-4.224,1,0.253,0.0289,0.0,0.371,0.279,96.024,225573,4,1
+82,0.575657894736842,Twerk,Twerkulator,City Girls Featuring Cardi B,['City Girls'],2Ty7EDf9XLYzEUqEIwJfDC,0.895,0.469,1,-5.882,1,0.0661,0.0012,4.56e-05,0.192,0.076,126.917,138542,4,13
+83,1.0,GIRL,GIRL,Maren Morris,['Maren Morris'],0pGXe7umwkcCm01Ipoxp0U,0.44,0.793,6,-3.95,1,0.0501,0.0677,0.0,0.0788,0.447,143.603,250653,4,5
+84,0.6021978021978023,Lovely,lovely (with Khalid),Billie Eilish & Khalid,"['Billie Eilish', 'Khalid']",0u2P5u6lvoDfwTYjAADbn4,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,200186,4,22
+85,0.6111111111111112,Calma,Calma - Remix,Pedro Capo X Farruko,"['Pedro Capó', 'Farruko']",5iwz1NiezX7WWjnCgY5TH4,0.826,0.773,11,-4.218,0,0.0524,0.323,0.0,0.143,0.761,126.899,238200,4,4
+86,1.0,Suge,Suge,DaBaby,['DaBaby'],2gwkD6igEhQbDQegRCcdoB,0.876,0.662,2,-6.482,0,0.426,0.0608,0.0,0.127,0.844,75.445,163320,4,1
+87,1.0,Night Shift,Night Shift,Jon Pardi,['Jon Pardi'],0bPnT6i9H1p8Vd85GS6Z7I,0.63,0.754,2,-3.564,1,0.0284,0.0963,0.0,0.268,0.73,95.999,172253,4,7
+88,1.0,This Is It,This Is It,Scotty McCreery,['Scotty McCreery'],74CEfiZthUGX5yUNNUM4bj,0.579,0.511,8,-6.788,1,0.0293,0.254,0.0,0.099,0.594,78.003,230973,4,17
+89,1.0,Rumor,Rumor,Lee Brice,['Lee Brice'],56eGOeSsqdg3FLxdo83TwV,0.655,0.56,9,-6.857,1,0.0486,0.749,0.0,0.115,0.599,140.975,198440,4,4
+90,0.7142857142857143,I Can't Get Enough,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","['benny blanco', 'Selena Gomez', 'J Balvin', 'Tainy']",2dO1FmuCJEGa7n2lQKsWMv,0.541,0.467,10,-4.039,0,0.362,0.404,3.45e-06,0.358,0.69,95.263,158027,4,5
+91,1.0,Don't Call Me Up,Don't Call Me Up,Mabel,['Mabel'],5WHTFyqSii0lmT9R21abT8,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,178480,4,2
+92,0.4874601003191974,Dedication,Dedication (feat. Kendrick Lamar),Nipsey Hussle Featuring Kendrick Lamar,"['Nipsey Hussle', 'Kendrick Lamar']",6fIjnWrv46njJHLDAY2JdC,0.512,0.734,8,-5.448,0,0.438,0.431,0.0,0.226,0.168,93.995,245813,4,1
+93,1.0,Ocean Eyes,ocean eyes,Billie Eilish,['Billie Eilish'],6pOS9aescFD80F4Ph37n5h,0.358,0.372,4,-7.664,0,0.0464,0.81,0.0539,0.0877,0.16,144.833,200387,4,7
+94,1.0,Millionaire,Millionaire,Chris Stapleton,['Chris Stapleton'],68JS5SFTnW5Yv9Vzw81Jf0,0.616,0.474,10,-9.608,1,0.0266,0.192,0.00762,0.0989,0.493,142.689,210133,4,17
+95,1.0,Talk You Out Of It,Talk You Out Of It,Florida Georgia Line,['Florida Georgia Line'],4qQwGRtGT7l6ckQtdPEFd4,0.651,0.708,4,-4.791,1,0.0376,0.582,0.0,0.0796,0.558,119.964,202920,4,7
+96,1.0,Faucet Failure,Faucet Failure,Ski Mask The Slump God,['Ski Mask The Slump God'],1ThmUihH9dF8EV08ku5AXN,0.935,0.552,10,-9.373,0,0.335,0.111,0.0,0.0952,0.615,99.993,145627,4,6
+97,1.0,Girl Like You,Girl Like You,Jason Aldean,['Jason Aldean'],7K0lR5Ngf5jkOWt1g6ut6l,0.543,0.88,3,-4.204,0,0.0365,0.035,0.000227,0.304,0.483,144.057,193067,4,19
+98,1.0,Pure Cocaine,Pure Cocaine,Lil Baby,['Lil Baby'],577YBGuskWkVDCxZrLRB4v,0.964,0.487,10,-6.071,0,0.421,0.00127,6.57e-06,0.115,0.107,127.05,154024,4,15
+99,0.4193548387096774,Pop Out,Pop Out (feat. Lil Tjay),Polo G Featuring Lil Tjay,"['Polo G', 'Lil Tjay']",6uFn47ACjqYkc0jADwEdj1,0.772,0.639,1,-7.119,1,0.467,0.15,0.0,0.0698,0.261,168.112,166560,4,2

@@ -1,0 +1,101 @@
+,match,billboard_track,spotify_track,billboard_artist,spotify_artist,spotify_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,weeks
+0,0.5666666666666667,Say Say Say,Say Say Say - Remastered 2015,Paul McCartney And Michael Jackson,"['Paul McCartney', 'Michael Jackson']",1db0gbTSKdRQum8VlbNkiO,0.822,0.686,10.0,-10.456,0.0,0.0472,0.115,0.000982,0.0463,0.828,117.743,235693.0,4.0,11.0
+1,0.9772727272727273,Say It Isn't So,Say It Isn't So,Daryl Hall John Oates,['Daryl Hall & John Oates'],2bZswvNGESo7MKeg7SQ9rp,0.769,0.595,4.0,-11.796,0.0,0.028,0.0588,0.0,0.18,0.969,113.971,256673.0,4.0,9.0
+2,0.8461538461538461,Union Of The Snake,Union of the Snake - 2010 Remaster,Duran Duran,['Duran Duran'],3JpaL6FMH9kjVWMA1mTmRl,0.617,0.86,11.0,-4.548,0.0,0.0896,0.138,9.32e-06,0.653,0.739,115.727,259933.0,4.0,8.0
+3,1.0,Owner Of A Lonely Heart,Owner of a Lonely Heart,Yes,['Yes'],0GTK6TesV108Jj5D3MHsYb,0.744,0.798,7.0,-5.981,1.0,0.0364,0.175,0.00367,0.26,0.89,125.061,268507.0,4.0,8.0
+4,0.956140350877193,All Night Long (All Night),All Night Long - Single Version,Lionel Richie,['Lionel Richie'],4giIdAr7Plyu5LQzBOR4FP,0.744,0.583,1.0,-12.595,1.0,0.0427,0.152,8.54e-05,0.0248,0.851,108.794,260493.0,4.0,15.0
+5,1.0,Uptown Girl,Uptown Girl,Billy Joel,['Billy Joel'],5zA8vzDGqPl2AzZkEYQGKh,0.701,0.944,4.0,-2.986,1.0,0.0455,0.0755,0.0,0.601,0.792,128.993,197707.0,4.0,14.0
+6,1.0,Love Is A Battlefield,Love Is A Battlefield,Pat Benatar,['Pat Benatar'],4wYqPn3Kg3vZrkVgW2oqAG,0.669,0.633,2.0,-11.903,0.0,0.049,0.0137,0.0178,0.0979,0.862,90.626,245400.0,4.0,14.0
+7,1.0,Twist Of Fate,Twist Of Fate,Olivia Newton-John,['Olivia Newton-John'],533BzrB9TWzWH27T9Ra7Um,0.605,0.693,1.0,-8.84,0.0,0.0409,0.253,0.00025,0.103,0.579,164.343,218227.0,4.0,8.0
+8,0.8484848484848485,Undercover Of The Night,Undercover (Of The Night) - Remastered 2009,The Rolling Stones,['The Rolling Stones'],4N8oxV3hvn8Efyo4yxp3LG,0.603,0.973,5.0,-4.454,0.0,0.176,0.0272,0.00731,0.472,0.408,122.756,273493.0,4.0,7.0
+9,1.0,Break My Stride,Break My Stride,Matthew Wilder,['Matthew Wilder'],1mCsF9Tw4AkIZOjvZbZZdT,0.917,0.588,10.0,-11.047,1.0,0.0607,0.195,0.0,0.0914,0.828,110.077,184480.0,4.0,15.0
+10,1.0,I Guess That's Why They Call It The Blues,I Guess That's Why They Call It The Blues,Elton John,['Elton John'],23l1kVpqMVREiwU1YAlcr4,0.673,0.663,0.0,-7.29,1.0,0.0269,0.217,0.017,0.177,0.671,120.634,285333.0,3.0,9.0
+11,1.0,Talking In Your Sleep,Talking In Your Sleep,The Romantics,['The Romantics'],7fRvtXvJMpGfTLdF0M09a1,0.72,0.967,9.0,-4.434,0.0,0.0343,0.0289,0.000345,0.142,0.977,129.766,235093.0,4.0,12.0
+12,0.8676470588235294,Church Of The Poison Mind,Church Of The Poison Mind - Remastered 2002,Culture Club,['Culture Club'],2DEEMhTiUMvkiHFdXkrKfI,0.597,0.902,7.0,-4.246,0.0,0.0355,0.0899,0.0,0.65,0.96,130.674,212147.0,4.0,10.0
+13,1.0,Major Tom (Coming Home),Major Tom - Coming Home,Peter Schilling,['Peter Schilling'],709ffFK4o4MtG1NKoLvOma,0.787,0.42,4.0,-14.32,0.0,0.0645,0.153,0.164,0.169,0.838,161.247,301373.0,4.0,14.0
+14,1.0,Cum On Feel The Noize,Cum on Feel the Noize,Quiet Riot,['Quiet Riot'],3vV3cr2TpPqFk07zxYUbla,0.409,0.92,11.0,-5.439,0.0,0.12,0.00719,0.00105,0.0823,0.37,145.085,290960.0,4.0,15.0
+15,1.0,Synchronicity II,Synchronicity II,The Police,['The Police'],5ynO8cYFjDwELIZfFHHeYe,0.414,0.851,2.0,-8.714,1.0,0.0413,0.0675,0.0047,0.333,0.567,158.907,300467.0,4.0,8.0
+16,0.8125,Karma Chameleon,Karma Chameleon - Remastered 2002,Culture Club,['Culture Club'],2wSAWEYUHkt92X4SBAPqZE,0.668,0.73,10.0,-7.182,1.0,0.0366,0.225,0.0,0.188,0.894,92.049,252773.0,4.0,4.0
+17,0.7553191489361701,Islands In The Stream,Islands In the Stream,Kenny Rogers Duet With Dolly Parton,"['Dolly Parton', 'Kenny Rogers']",6dnco8haegnJYtylV26cBq,0.617,0.411,8.0,-12.075,1.0,0.0373,0.675,1.04e-06,0.0886,0.738,203.934,251960.0,4.0,18.0
+18,0.0,Why Me?,,Irene Cara,,,,,,,,,,,,,,,,
+19,1.0,In A Big Country,In A Big Country,Big Country,['Big Country'],1tAFvq63jO3n9WaDCZPJNh,0.641,0.775,9.0,-6.419,1.0,0.0498,0.00184,0.177,0.0948,0.854,126.174,284067.0,4.0,10.0
+20,1.0,Running With The Night,Running With The Night,Lionel Richie,['Lionel Richie'],1dJX2lSiKGbkjKMB9PJuBq,0.755,0.664,9.0,-11.094,0.0,0.0342,0.0124,0.00511,0.153,0.768,120.171,362371.0,4.0,5.0
+21,0.7068965517241379,Joanna,Joanna - Single Version,Kool & The Gang,['Kool & The Gang'],6edQfeOlqbGteYixpJl3Sm,0.857,0.602,10.0,-8.311,1.0,0.029,0.489,0.0244,0.317,0.957,105.157,239627.0,4.0,8.0
+22,1.0,Read 'Em And Weep,Read 'Em and Weep,Barry Manilow,['Barry Manilow'],5fDN8p3bNKF8BTZXAEd1Vp,0.528,0.747,10.0,-7.29,1.0,0.0328,0.651,1.47e-06,0.243,0.403,106.356,325827.0,4.0,6.0
+23,0.9054054054054055,Crumblin' Down,Crumblin' Down,John Cougar Mellencamp,['John Mellencamp'],4uqmzWlYa0eLKmbcHNgLej,0.782,0.905,7.0,-3.56,1.0,0.0789,0.0165,1.37e-06,0.0797,0.667,126.748,214133.0,4.0,11.0
+24,0.0,If I'd Been The One,,Thirty Eight Special,,,,,,,,,,,,,,,,
+25,1.0,Time Will Reveal,Time Will Reveal,Debarge,['DeBarge'],5dOAshdEVLDMjHBnlMrX12,0.711,0.259,0.0,-13.796,1.0,0.0359,0.528,0.0,0.0582,0.433,129.75,259493.0,4.0,11.0
+26,0.7777777777777778,That's All,That's All - 2007 Remaster,Genesis,['Genesis'],2zFdsAIk9r2Mi7Lmm1w3sM,0.596,0.657,4.0,-8.784,0.0,0.0345,0.235,0.0139,0.102,0.774,175.263,264573.0,4.0,5.0
+27,1.0,I Still Can't Get Over Loving You,I Still Can't Get Over Loving You,Ray Parker Jr.,['Ray Parker Jr.'],6gmp4cBAgsQOqqZQECbH4u,0.611,0.502,1.0,-13.684,1.0,0.0387,0.22,0.000106,0.0779,0.562,83.28,247653.0,4.0,7.0
+28,1.0,Pink Houses,Pink Houses,John Mellencamp,['John Mellencamp'],5JKQMoGmXwDHCodn5pFVHB,0.635,0.795,7.0,-5.313,1.0,0.0269,0.0514,3.08e-06,0.0751,0.628,115.23,283667.0,4.0,3.0
+29,1.0,Ain't Nobody,Ain't Nobody,Chaka Khan,['Chaka Khan'],2NVpYQqdraEcQwqT7GhUkh,0.8,0.878,1.0,-7.109,1.0,0.0434,0.189,0.000104,0.14,0.816,104.282,280853.0,4.0,13.0
+30,1.0,Holiday,Holiday,Madonna,['Madonna'],3ibAzRj9JnowdoLkyllk3n,0.813,0.699,7.0,-8.656,1.0,0.0458,0.0251,0.0135,0.0527,0.732,117.548,231560.0,4.0,9.0
+31,0.9285714285714286,The Curly Shuffle,The Curly Shuffle,Jump 'n The Saddle,"[""Jump 'N' The Saddle Band""]",5Pijq9ImAu5xweS1lxAKwK,0.632,0.484,9.0,-11.772,1.0,0.104,0.156,0.0,0.153,0.873,80.687,174707.0,4.0,4.0
+32,1.0,Stay With Me Tonight,Stay With Me Tonight,Jeffrey Osborne,['Jeffrey Osborne'],0AXvsShBtCtMVx1kRPOu6T,0.906,0.857,7.0,-9.804,0.0,0.0406,0.157,0.00059,0.126,0.968,120.755,298533.0,4.0,11.0
+33,0.6666666666666666,Gold,Gold - 2003 Remaster,Spandau Ballet,['Spandau Ballet'],0Z9UkcT1pnrmLciUJPcMMS,0.724,0.802,10.0,-6.117,0.0,0.0337,0.25,0.0016,0.342,0.729,143.116,290720.0,4.0,6.0
+34,1.0,The Sign Of Fire,The Sign Of Fire,The Fixx,['The Fixx'],0yzAjMhKNNUWTPYn1zKRDl,0.833,0.624,7.0,-7.886,0.0,0.0536,0.253,0.001,0.118,0.913,124.215,232014.0,4.0,5.0
+35,1.0,Heart And Soul,Heart And Soul,Huey Lewis & The News,['Huey Lewis & The News'],3pecdrUzTZjaqrw6iCLTvd,0.66,0.806,2.0,-8.01,1.0,0.0324,0.00332,1.4e-05,0.0986,0.944,122.041,253253.0,4.0,16.0
+36,0.8666666666666667,When The Lights Go Out,When the Lights Go out - 2018 Remaster,Naked Eyes,['Naked Eyes'],16BBr5OO2J6M3OqKCy20m3,0.637,0.842,9.0,-4.492,0.0,0.0273,0.225,0.0,0.352,0.924,98.092,182560.0,4.0,10.0
+37,1.0,Think Of Laura,Think of Laura,Christopher Cross,['Christopher Cross'],5jLq63jMFWg0dKHnht6YI0,0.645,0.211,11.0,-12.73,1.0,0.0257,0.822,9.19e-06,0.138,0.174,86.121,206640.0,4.0,3.0
+38,1.0,Baby I Lied,Baby I Lied,Deborah Allen,['Deborah Allen'],5KqGrafc3paz7bNPju5Ne9,0.63,0.478,11.0,-10.589,1.0,0.0275,0.318,6.49e-05,0.0942,0.279,92.491,250120.0,4.0,11.0
+39,0.7894736842105263,In The Mood,In the Mood - 2006 Remaster,Robert Plant,['Robert Plant'],1fOrdq5lDitklPno27DeHV,0.607,0.723,7.0,-7.452,1.0,0.0282,0.17,0.0492,0.0779,0.298,101.558,322960.0,4.0,6.0
+40,1.0,Souls,Souls,Rick Springfield,['Rick Springfield'],6GGvHY1q1i3RZFzksZGRU3,0.603,0.874,8.0,-8.262,1.0,0.0438,0.0493,0.0,0.0818,0.476,123.998,240360.0,4.0,11.0
+41,1.0,Let The Music Play,Let the Music Play,Shannon,['Shannon'],6b9hm8mvZ2KH7Fl7LLA5ct,0.709,0.687,10.0,-10.462,0.0,0.0519,0.000893,0.000151,0.092,0.765,114.717,214379.0,4.0,7.0
+42,0.8461538461538461,Middle Of The Road,Middle of the Road - 2007 Remaster,Pretenders,['Pretenders'],4tUDE4VlQLHXRv3RG8S3CU,0.488,0.959,9.0,-5.575,1.0,0.0758,0.00333,0.0767,0.025,0.671,166.808,254293.0,4.0,2.0
+43,1.0,An Innocent Man,An Innocent Man,Billy Joel,['Billy Joel'],1Gg14U26oq94uWcG7khccX,0.509,0.382,0.0,-9.441,1.0,0.0351,0.0466,0.0,0.112,0.427,105.764,318000.0,4.0,2.0
+44,0.9864864864864865,Remember The Night,Remember The Nights,The Motels,['The Motels'],6ZceMfTAlpxwNcK5C34wPp,0.661,0.79,9.0,-5.759,1.0,0.0311,0.0282,2.04e-06,0.125,0.784,130.848,192600.0,4.0,4.0
+45,1.0,Send Me An Angel,Send Me An Angel,Real Life,['Real Life'],3HCDGtLZabH3umLgwCBpDB,0.605,0.926,7.0,-4.831,0.0,0.0372,0.0714,2.18e-05,0.0953,0.49,129.844,236547.0,4.0,7.0
+46,1.0,P.Y.T. (Pretty Young Thing),P.Y.T. (Pretty Young Thing),Michael Jackson,['Michael Jackson'],5lA3pwMkBdd24StM90QrNR,0.888,0.815,11.0,-4.909,0.0,0.0404,0.23,0.000424,0.127,0.961,127.273,238733.0,4.0,12.0
+47,0.7647058823529411,Nightbird,Nightbird - 2016 Remaster,Stevie Nicks,['Stevie Nicks'],1V6e1N41YKbIl6LaUYrVzs,0.663,0.511,0.0,-8.744,1.0,0.0293,0.106,1.05e-05,0.0769,0.687,125.22,301293.0,4.0,2.0
+48,0.7,So Bad,So Bad - Remastered 2015,Paul McCartney,['Paul McCartney'],5DAiPy6Igp619HsJZR6FRM,0.675,0.306,7.0,-14.007,1.0,0.0269,0.404,3.69e-06,0.125,0.564,87.945,202053.0,4.0,1.0
+49,0.7608695652173914,Yah Mo B There,Yah Mo B There,James Ingram With Michael McDonald,"['James Ingram', 'Michael McDonald']",5edioRF5SIeNzZafgd1Py1,0.818,0.512,0.0,-12.491,1.0,0.0363,0.183,4.2e-06,0.0439,0.96,117.842,279413.0,4.0,3.0
+50,1.0,Take Me Back,Take Me Back,Bonnie Tyler,['Bonnie Tyler'],3jmdzHB5KlQHwvqK65XzIS,0.457,0.733,10.0,-10.773,1.0,0.0341,0.00813,1.64e-06,0.279,0.536,118.212,322240.0,4.0,4.0
+51,0.75,Ebony Eyes,Ebony Eyes,Rick James And Smokey Robinson,"['Rick James', 'Smokey Robinson']",71JkyCi11ETSz58jhgg2YE,0.522,0.536,2.0,-7.132,1.0,0.026,0.147,0.0,0.123,0.441,140.311,307640.0,4.0,3.0
+52,0.7175697865353038,What's New,What's New?,Linda Ronstadt & The Nelson Riddle Orchestra,['Linda Ronstadt'],0EI6LjyzgdGzpKU9cEc5qn,0.155,0.257,3.0,-10.894,1.0,0.0356,0.726,0.00552,0.106,0.16,176.526,237960.0,3.0,9.0
+53,1.0,You Don't Believe,You Don't Believe,The Alan Parsons Project,['The Alan Parsons Project'],5vhDFOTm51TGtGaPTtcTKY,0.667,0.633,0.0,-10.836,0.0,0.0313,0.0683,4.12e-05,0.0725,0.574,122.827,266893.0,4.0,6.0
+54,0.9090909090909092,Big Crash,The Big Crash,Eddie Money,['Eddie Money'],2sht0YYskOiCZbc8g7foCp,0.494,0.804,2.0,-5.759,1.0,0.0389,0.00328,0.00538,0.083,0.799,157.877,219440.0,4.0,6.0
+55,1.0,I Won't Stand In Your Way,I Won't Stand In Your Way,Stray Cats,['Stray Cats'],6FKvNrS5jAYMnnJWrZUF3i,0.489,0.429,3.0,-12.195,1.0,0.0272,0.474,0.0,0.173,0.606,104.983,237467.0,3.0,9.0
+56,0.8846153846153846,The Way He Makes Me Feel,The Way We Were,Barbra Streisand,['Barbra Streisand'],1vZTgn4JXWMahR8r99ug5H,0.264,0.32,9.0,-11.716,1.0,0.0325,0.885,0.00141,0.134,0.171,138.108,211093.0,3.0,10.0
+57,0.0,The Dream,,Irene Cara,,,,,,,,,,,,,,,,
+58,1.0,The Politics Of Dancing,The Politics of Dancing,Re-flex,['Re-Flex'],6edIZ76uLiHDkW64VVxGk8,0.685,0.957,11.0,-8.214,1.0,0.0445,0.0611,0.00025,0.317,0.809,127.27,237333.0,4.0,5.0
+59,0.8466666666666667,Save The Last Dance For Me,Save the Last Dance for Me (with The Jordanaires),Dolly Parton,"['Dolly Parton', 'The Jordanaires']",7se8roGyU7pinYwrhOVklr,0.662,0.609,11.0,-10.865,1.0,0.0399,0.181,3.09e-05,0.0728,0.326,139.319,232721.0,4.0,3.0
+60,1.0,(You Can Still) Rock In America,(You Can Still) Rock In America,Night Ranger,['Night Ranger'],1anccAjNKZNKlTbHGheeCA,0.384,0.778,11.0,-12.719,0.0,0.0567,0.000372,0.000114,0.191,0.594,164.768,255160.0,4.0,4.0
+61,1.0,99 Luftballons,99 Luftballons,Nena,['Nena'],4ZhPLoMzZwewHLLjV1J15c,0.575,0.555,4.0,-7.495,1.0,0.0453,0.103,1.3e-06,0.111,0.504,95.361,232467.0,4.0,3.0
+62,1.0,Almost Over You,Almost Over You,Sheena Easton,['Sheena Easton'],5mKqa89zAVKXMRY92haT6p,0.34,0.274,8.0,-10.67,1.0,0.0301,0.85,0.0,0.244,0.304,139.044,221493.0,4.0,3.0
+63,1.0,Wet My Whistle,Wet My Whistle,Midnight Star,['Midnight Star'],0R7pPCjKgC8ZOEUr2E8D9B,0.791,0.713,7.0,-10.183,0.0,0.0334,0.0399,1.86e-05,0.0528,0.962,113.856,307817.0,4.0,5.0
+64,0.9111111111111111,This Must Be The Place (Naive Melody),This Must Be the Place (Naive Melody) - 2005 Remaster,Talking Heads,['Talking Heads'],6aBUnkXuCEQQHAlTokv9or,0.942,0.641,7.0,-10.15,1.0,0.0333,0.331,0.179,0.028,0.966,114.443,296147.0,4.0,5.0
+65,1.0,Lick It Up,Lick It Up,KISS,['KISS'],3cXiUuiGpFmZ8OdAWKk8Ck,0.681,0.773,2.0,-6.051,1.0,0.058,0.181,1.84e-05,0.311,0.547,120.276,236640.0,4.0,7.0
+66,0.5833333333333334,Give It Up,Give It Up,KC,['KC & The Sunshine Band'],3yDhZq8f17SmumVmEyCaRN,0.862,0.624,3.0,-11.63,1.0,0.0565,0.0192,0.000153,0.0465,0.882,124.896,254240.0,4.0,1.0
+67,1.0,Total Eclipse Of The Heart,Total Eclipse of the Heart,Bonnie Tyler,['Bonnie Tyler'],7wuJGgpTNzbUyn26IOY6rj,0.431,0.723,8.0,-5.887,1.0,0.0568,0.145,0.0,0.374,0.19,130.141,267360.0,4.0,24.0
+68,1.0,Girls Just Want To Have Fun,Girls Just Want to Have Fun,Cyndi Lauper,['Cyndi Lauper'],4y1LsJpmMti1PfRQV9AWWe,0.71,0.799,6.0,-4.897,1.0,0.0328,0.22,0.000602,0.349,0.725,120.372,238267.0,4.0,2.0
+69,0.8066985645933014,"Tonight, I Celebrate My Love",Tonight I Celebrate My Love,Peabo Bryson/Roberta Flack,"['Peabo Bryson', 'Roberta Flack']",7JOyY9GA3P2Evx50oetDKb,0.482,0.211,3.0,-14.518,1.0,0.0318,0.803,1.36e-05,0.154,0.158,116.902,211000.0,4.0,25.0
+70,1.0,Telefone (long Distance Love Affair),Telefone (Long Distance Love Affair),Sheena Easton,['Sheena Easton'],6pzQvHHygI4kYpk2xFIXEo,0.844,0.683,9.0,-4.292,1.0,0.0883,0.246,2.37e-06,0.109,0.899,138.068,222040.0,4.0,19.0
+71,1.0,Suddenly Last Summer,Suddenly Last Summer,The Motels,['The Motels'],08pnzLwZrh8lernK2aRaGz,0.725,0.73,2.0,-7.072,1.0,0.0266,0.102,0.0912,0.0931,0.635,120.257,216533.0,4.0,17.0
+72,0.6764705882352942,Gloria,Gloria - Live; 2007 Remaster,The Doors,['The Doors'],1b11chGCTSN26rsBt0WNYP,0.506,0.407,9.0,-12.478,1.0,0.0429,0.0508,4.14e-06,0.286,0.633,128.622,378480.0,4.0,4.0
+73,0.0,You're Looking Like Love To Me,,Peabo Bryson & Roberta Flack,,,,,,,,,,,,,,,,
+74,1.0,Street Of Dreams,Street Of Dreams,Rainbow,['Rainbow'],2hDopFcMjFcRi5IRpTSSyr,0.555,0.648,6.0,-8.791,0.0,0.0286,0.00199,3.83e-06,0.0597,0.659,119.848,265507.0,4.0,8.0
+75,1.0,Tender Is The Night,Tender Is the Night,Jackson Browne,['Jackson Browne'],2CzYQ2ktwSMGnA5ypH2a8w,0.764,0.529,7.0,-7.157,1.0,0.0329,0.173,0.000164,0.0985,0.703,113.312,293000.0,4.0,14.0
+76,1.0,Red Hot,Red Hot,Herb Alpert,['Herb Alpert'],58IjwyQSJWSKkqHATwDV3a,0.759,0.764,7.0,-12.135,1.0,0.0532,0.0909,0.836,0.113,0.65,109.352,286105.0,4.0,3.0
+77,1.0,The Smile Has Left Your Eyes,The Smile Has Left Your Eyes,Asia,['Asia'],1RvKjCpz3PbzogBMtVwxxa,0.326,0.66,4.0,-8.534,1.0,0.0316,0.354,1.01e-05,0.106,0.381,85.176,193093.0,4.0,11.0
+78,0.9827586206896552,Tell Me If You Still Care,Tell Me If You Still Care,The S.O.S. Band,['The S.O.S Band'],0EjbVejkBlWGYrEF2YCUbA,0.584,0.781,4.0,-10.662,0.0,0.0402,0.0761,0.00533,0.101,0.923,81.155,416813.0,4.0,6.0
+79,1.0,Making Love Out Of Nothing At All,Making Love Out of Nothing at All,Air Supply,['Air Supply'],01MXkFA8sL7at6txavDErt,0.388,0.72,7.0,-5.541,1.0,0.033,0.202,0.000288,0.283,0.554,141.283,341747.0,4.0,22.0
+80,0.8555555555555556,Someone Like You,Someone Like You (Remastered),Michael Stanley Band,['Michael Stanley Band'],4rRqXbneAUDmXTWDh9WKAe,0.373,0.947,9.0,-7.074,1.0,0.0483,0.00712,0.119,0.0395,0.64,152.183,346000.0,4.0,1.0
+81,0.8857142857142857,LET's PRETEND WE'rE MARRIED,Let's Pretend We're Married - 2019 Remaster,Prince,['Prince'],1gaubSBzxXC1PyHGAzHbI3,0.787,0.668,10.0,-7.599,0.0,0.182,0.00875,0.000242,0.431,0.807,184.652,439994.0,4.0,2.0
+82,1.0,Let's Go Up,Let's Go Up,Diana Ross,['Diana Ross'],0cP6MyvBwQwYnGqNAS3lkf,0.733,0.652,10.0,-7.156,0.0,0.0356,0.486,0.00798,0.116,0.66,138.834,242373.0,4.0,2.0
+83,1.0,The Sound Of Goodbye,The Sound Of Goodbye,Crystal Gayle,['Crystal Gayle'],5Cq5jkGEUuwCge5YqLMEiT,0.503,0.697,8.0,-5.2,1.0,0.0659,0.172,0.0,0.291,0.427,208.755,192827.0,4.0,3.0
+84,1.0,Sweetheart Like You,Sweetheart Like You,Bob Dylan,['Bob Dylan'],2KVrZKnaDbu9Ik9aMHe8J3,0.555,0.375,1.0,-11.308,0.0,0.0418,0.627,1.96e-05,0.0751,0.487,138.992,273667.0,4.0,2.0
+85,0.0,Rappin' Rodney,,Rodney Dangerfield,,,,,,,,,,,,,,,,
+86,1.0,Touch A Four Leaf Clover,Touch a Four Leaf Clover,Atlantic Starr,['Atlantic Starr'],3bog0mq0uJu6NeBynkMM6x,0.717,0.483,1.0,-13.471,0.0,0.11,0.475,4.37e-06,0.105,0.581,78.031,266253.0,4.0,3.0
+87,1.0,I Need You,I Need You,The Pointer Sisters,['The Pointer Sisters'],5GAzY9g3ZZxaP0DOOol3xO,0.865,0.567,5.0,-7.008,0.0,0.0455,0.124,0.0,0.0692,0.971,105.539,241720.0,4.0,12.0
+88,0.7333333333333334,Just One More Time,When I Left Your Place - LSD Version,The Headpins,['The Bottom Dollars'],6hN97WJIjAzgvRXoAUiF1I,0.54,0.535,2.0,-8.433,1.0,0.0257,0.0664,0.0,0.104,0.742,112.286,238400.0,4.0,1.0
+89,1.0,Electric Kingdom,Electric Kingdom,Twilight 22,['Twilight 22'],1XCKE65GRGauDKnyFAKDN5,0.819,0.624,6.0,-11.727,1.0,0.0599,0.00816,0.21,0.0523,0.706,127.179,286040.0,4.0,2.0
+90,1.0,I Am Love,I Am Love,Jennifer Holliday,"['Jennifer Holliday', 'Mick Guzauski', 'Tom Perry']",4EFThxuJ1AQeVhJG4vo8Vy,0.396,0.314,7.0,-14.238,0.0,0.0375,0.168,0.0,0.0743,0.134,131.116,276800.0,4.0,10.0
+91,1.0,Send Her My Love,Send Her My Love,Journey,['Journey'],48Wu7j5ANO17SOpjb3oVPC,0.48,0.739,4.0,-5.696,0.0,0.0373,0.0923,0.0,0.239,0.25,124.89,234547.0,4.0,14.0
+92,1.0,Magnetic,Magnetic,"Earth, Wind & Fire","['Earth, Wind & Fire']",7qcQracry44XombvUkiRvd,0.706,0.825,1.0,-9.121,1.0,0.038,0.0253,6.15e-05,0.363,0.854,140.45,261773.0,4.0,7.0
+93,1.0,One Thing Leads To Another,One Thing Leads To Another,The Fixx,['The Fixx'],5B37ocpk2zxeZL1lq5F6ui,0.789,0.945,5.0,-5.219,0.0,0.0482,0.198,3.11e-06,0.0617,0.965,136.745,199827.0,4.0,18.0
+94,0.0,Invisible Hands,,Kim Carnes,,,,,,,,,,,,,,,,
+95,1.0,Allergies,Allergies,Paul Simon,['Paul Simon'],6N9HB9cU7Vkjhy6L45RTNF,0.566,0.574,7.0,-10.153,1.0,0.0628,0.191,0.000109,0.0294,0.61,87.026,279080.0,4.0,8.0
+96,0.9864864864864865,State Of The Union,State Of The Nation,Industry,['Industry'],4qngSTqniuB6PYTE1JdbPG,0.842,0.682,6.0,-11.222,1.0,0.036,0.0768,0.00367,0.0629,0.965,128.38,274507.0,4.0,6.0
+97,0.6551724137931034,If Love Should Go,The Leanover,Streets,['Life Without Buildings'],0lE2Jl13AfiAONJKrrXDxD,0.515,0.758,11.0,-8.404,0.0,0.0471,0.24,0.000947,0.144,0.677,118.402,323973.0,4.0,4.0
+98,0.7647058823529411,Delirious,Delirious - 2019 Remaster,Prince,['Prince'],5zWhtlFS3w52HjN4ayOUgR,0.794,0.613,11.0,-8.203,0.0,0.0645,0.0937,0.000708,0.03,0.963,200.475,240005.0,4.0,17.0
+99,0.6751343429408891,How Many Times Can We Say Goodbye,How Many Times Can We Say Goodbye (with Luther Vandross),Dionne Warwick & Luther Vandross,"['Dionne Warwick', 'Luther Vandross']",6Xi4SYy31Ho03034WqWOWg,0.364,0.461,8.0,-7.864,1.0,0.0328,0.569,0.00198,0.115,0.117,113.493,207853.0,4.0,12.0

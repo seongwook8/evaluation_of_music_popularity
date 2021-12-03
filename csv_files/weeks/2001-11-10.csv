@@ -1,0 +1,101 @@
+,match,billboard_track,spotify_track,billboard_artist,spotify_artist,spotify_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,weeks
+0,1.0,Family Affair,Family Affair,Mary J. Blige,['Mary J. Blige'],3aw9iWUQ3VrPQltgwvN9Xu,0.911,0.551,8.0,-3.75,0.0,0.0449,0.132,4.12e-05,0.0863,0.969,92.887,265867.0,4.0,16.0
+1,0.4745605920444034,I'm Real,I'm Real (feat. Ja Rule) - Murder Remix,Jennifer Lopez Featuring Ja Rule,"['Jennifer Lopez', 'Ja Rule']",6MLsahMK3VvH9NUwXOktdS,0.708,0.587,11.0,-7.93,0.0,0.151,0.273,0.0,0.0718,0.554,83.46,262133.0,4.0,19.0
+2,1.0,Fallin',Fallin',Alicia Keys,['Alicia Keys'],0KQx6HOpJueiSkztcS0r7D,0.652,0.609,11.0,-7.519,0.0,0.037,0.263,0.00101,0.233,0.482,95.986,210200.0,3.0,22.0
+3,1.0,Hero,Hero,Enrique Iglesias,['Enrique Iglesias'],24Gxm7Eh7tO83E26LG0CsY,0.581,0.651,7.0,-5.617,1.0,0.0392,0.143,1.05e-05,0.107,0.146,151.959,264600.0,4.0,7.0
+4,1.0,Turn Off The Light,Turn Off The Light,Nelly Furtado,['Nelly Furtado'],4gM2BugovNf4bvXdjZODzG,0.589,0.687,2.0,-6.222,1.0,0.097,0.0778,0.000289,0.419,0.649,180.215,276067.0,4.0,13.0
+5,1.0,U Got It Bad,U Got It Bad,Usher,['Usher'],7J41dYQolQJEtj3UmKLu5r,0.816,0.5,1.0,-4.551,1.0,0.03,0.0227,1.53e-06,0.0733,0.649,124.037,247840.0,4.0,8.0
+6,1.0,Differences,Differences,Ginuwine,['Ginuwine'],0Uyh92tLyb9JawG8lmWCzJ,0.562,0.594,3.0,-4.578,0.0,0.0558,0.318,0.0,0.311,0.423,62.876,265533.0,4.0,16.0
+7,0.7413793103448276,Livin' It Up,Livin' It Up,Ja Rule Featuring Case,"['Ja Rule', 'Case']",52gqeRlrBE7hqMlRxEsi6y,0.874,0.768,6.0,-4.086,1.0,0.311,0.0554,0.0,0.041,0.636,106.095,257067.0,4.0,11.0
+8,1.0,It's Been Awhile,It's Been Awhile,Staind,['Staind'],25CMmGsl22APKhfuj4Tp7j,0.509,0.774,6.0,-4.054,1.0,0.0338,0.00189,0.000549,0.143,0.0824,116.529,264707.0,4.0,31.0
+9,1.0,Only Time,Only Time,Enya,['Enya'],6FLwmdmW77N1Pxb1aWsZmO,0.418,0.249,3.0,-13.744,1.0,0.0301,0.841,0.661,0.112,0.213,82.803,218547.0,4.0,18.0
+10,1.0,How You Remind Me,How You Remind Me,Nickelback,['Nickelback'],0gmbgwZ8iqyMPmXefof8Yf,0.446,0.764,10.0,-5.042,1.0,0.033,0.00135,0.0,0.099,0.543,172.094,223840.0,4.0,10.0
+11,1.0,Everywhere,Everywhere,Michelle Branch,['Michelle Branch'],1u0l8zWpQeMYStFkc2mLD7,0.523,0.828,1.0,-4.696,1.0,0.0762,0.0136,0.000255,0.165,0.476,96.952,214827.0,4.0,11.0
+12,0.6933333333333334,Where The Party At,Where the Party At (feat. Nelly),Jagged Edge With Nelly,"['Jagged Edge', 'Nelly']",5mNV8Mz59bzyuQ53gTw0c0,0.596,0.661,5.0,-6.239,0.0,0.226,0.31,0.0,0.0847,0.86,129.491,232573.0,5.0,24.0
+13,1.0,Emotion,Emotion,Destiny's Child,"[""Destiny's Child""]",01Aj44KIjCrPmZeXq4UOky,0.412,0.577,7.0,-4.944,1.0,0.119,0.163,0.0,0.0969,0.345,173.675,236400.0,4.0,7.0
+14,1.0,Ugly,Ugly,Bubba Sparxxx,['Bubba Sparxxx'],3NOq1Gpiy4KwDni8NhOmHQ,0.755,0.836,6.0,-5.742,1.0,0.166,0.32,3.03e-05,0.199,0.696,90.847,265227.0,4.0,11.0
+15,1.0,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),Blu Cantrell,['Blu Cantrell'],4zYTZvtcww7OWKie7fxA9E,0.667,0.773,5.0,-4.983,0.0,0.0586,0.201,0.0,0.404,0.667,89.976,250707.0,4.0,28.0
+16,1.0,Fill Me In,Fill Me In,Craig David,['Craig David'],0UzsDmdpw0Q14KU4hieQss,0.682,0.744,8.0,-6.981,1.0,0.0365,0.376,0.00951,0.06,0.827,132.493,257200.0,4.0,23.0
+17,1.0,Rock The Boat,Rock The Boat,Aaliyah,['Aaliyah'],0qvlhVNm7L5IWabWF5hlEL,0.637,0.725,5.0,-5.073,1.0,0.0333,0.0702,0.00438,0.203,0.415,92.99,274733.0,4.0,10.0
+18,1.0,Drops Of Jupiter (Tell Me),Drops of Jupiter (Tell Me),Train,['Train'],2hKdd3qO7cWr2Jo0Bcs0MA,0.481,0.638,0.0,-5.862,1.0,0.0276,0.153,0.0,0.154,0.497,79.064,259933.0,4.0,35.0
+19,0.9615384615384616,Gone,Gone,'N Sync,['*NSYNC'],4CCUjYJPbSXLL23BFeBVbI,0.704,0.409,11.0,-8.581,0.0,0.0597,0.43,0.0,0.109,0.495,113.863,292000.0,4.0,8.0
+20,1.0,Hanging By A Moment,Hanging By A Moment,Lifehouse,['Lifehouse'],0wqOReZDnrefefEsrIGeR4,0.541,0.864,1.0,-4.915,1.0,0.0357,0.00118,0.0,0.0896,0.435,124.557,216067.0,4.0,40.0
+21,1.0,Izzo (H.O.V.A.),Izzo (H.O.V.A.),JAY-Z,['JAY-Z'],4h5KBcltGefua73AUPYps7,0.618,0.844,1.0,-4.051,0.0,0.342,0.0178,0.000126,0.0634,0.697,84.411,240627.0,4.0,16.0
+22,1.0,Smooth Criminal,Smooth Criminal,Alien Ant Farm,['Alien Ant Farm'],5z6xHjCZr7a7AIcy8sPBKy,0.653,0.964,9.0,-4.261,0.0,0.0582,0.00316,0.00512,0.144,0.87,126.928,209267.0,4.0,12.0
+23,1.0,Be Like That,Be Like That,3 Doors Down,['3 Doors Down'],3PbHle8KhJp6GuO1jLdEmQ,0.487,0.702,7.0,-6.043,1.0,0.0238,0.00528,4.97e-06,0.129,0.306,95.982,265907.0,4.0,16.0
+24,1.0,Raise Up,Raise Up,Petey Pablo,['Petey Pablo'],02GwPAncasVL82yC7y2hmN,0.735,0.844,1.0,-5.215,1.0,0.167,0.142,0.0,0.319,0.742,156.069,286427.0,4.0,14.0
+25,0.7352941176470589,Lifetime,Lifetime - Remastered 2021,Maxwell,['Maxwell'],0tXq1ob3ysGZN2oK1abtyp,0.678,0.403,9.0,-8.862,1.0,0.0742,0.326,3.67e-06,0.069,0.528,127.997,329400.0,4.0,10.0
+26,1.0,U Remind Me,U Remind Me,Usher,['Usher'],2QsZVnbWVSjKMXK6K3uRBL,0.657,0.629,6.0,-4.938,1.0,0.0782,0.194,0.0,0.254,0.726,93.985,266893.0,4.0,22.0
+27,0.603448275862069,Let Me Blow Ya Mind,Let Me Blow Ya Mind,Eve Featuring Gwen Stefani,"['Eve', 'Gwen Stefani']",3RmKpob8xzv1pzHEQrMJah,0.908,0.557,8.0,-4.243,0.0,0.107,0.242,0.0,0.0709,0.897,90.032,230133.0,4.0,29.0
+28,0.5176767676767677,Can't Deny It,Can't Deny It (feat. Nate Dogg),Fabolous Featuring Nate Dogg,"['Fabolous', 'Nate Dogg']",7K4Aq4awgYvDKEJdEvvl4j,0.916,0.821,4.0,-4.118,0.0,0.15,0.0528,0.0,0.0635,0.592,90.04,306440.0,4.0,17.0
+29,0.78125,Caramel,Caramel,City High Featuring Eve,"['City High', 'Eve']",5dXmPzPDTMWmxmpzxAV1JZ,0.801,0.66,5.0,-8.267,0.0,0.286,0.175,9.5e-06,0.0748,0.295,93.036,212293.0,4.0,5.0
+30,1.0,Superman (It's Not Easy),Superman (It's Not Easy),Five For Fighting,['Five For Fighting'],3TwtrR1yNLY1PMPsrGQpOp,0.382,0.416,0.0,-9.303,1.0,0.0302,0.0733,0.0,0.0719,0.125,102.089,221693.0,4.0,11.0
+31,1.0,I Do!!,I Do!!,Toya,['Toya'],0NdEFLohwfZpyncrBCq1ZY,0.781,0.583,6.0,-7.83,0.0,0.0628,0.0859,0.00216,0.058,0.91,156.264,213493.0,4.0,24.0
+32,1.0,"Girls, Girls, Girls","Girls, Girls, Girls",JAY-Z,['JAY-Z'],0vzb8Ii9B2fP9c0POFGPOZ,0.509,0.952,2.0,-4.444,0.0,0.336,0.144,0.0,0.135,0.7,83.068,275373.0,4.0,5.0
+33,1.0,AM To PM,AM To PM,Christina Milian,['Christina Milian'],1PUNthIXityeZlnRLcP7JI,0.872,0.868,10.0,-3.036,0.0,0.12,0.153,2.26e-05,0.843,0.822,105.005,231213.0,4.0,12.0
+34,1.0,Get The Party Started,Get the Party Started,P!nk,['P!nk'],02jcEwywffn3Tsb48fXmlW,0.802,0.903,11.0,-3.267,0.0,0.046,0.0011,0.0,0.173,0.96,128.93,192533.0,4.0,3.0
+35,1.0,Drowning,Drowning,Backstreet Boys,['Backstreet Boys'],0AiTIiCQ15NW8QHQwSxKuR,0.568,0.782,6.0,-5.968,1.0,0.0396,0.0799,0.0,0.0985,0.481,141.942,267227.0,4.0,4.0
+36,0.5438845997561966,One Minute Man,"One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)","Missy ""Misdemeanor"" Elliott",['ProTracks (Karaoke)'],5AiwKGtwo6uwW4ZPy3vqFz,0.911,0.589,9.0,-12.47,1.0,0.217,0.057,1.57e-05,0.145,0.544,93.884,237653.0,4.0,18.0
+37,0.7285714285714285,The Star Spangled Banner,The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV,Whitney Houston,"['Whitney Houston', 'Florida Orchestra']",5qByPJHfbssZpbUzhgpDCG,0.179,0.641,8.0,-6.93,1.0,0.0439,0.636,0.0303,0.94,0.495,85.378,134920.0,4.0,18.0
+38,1.0,Only In America,Only In America,Brooks & Dunn,['Brooks & Dunn'],3e41nkMyqcAwaQCXJVj87G,0.512,0.886,4.0,-5.906,1.0,0.0402,0.0661,0.00165,0.863,0.693,137.763,268613.0,4.0,17.0
+39,1.0,Where The Stars And Stripes And The Eagle Fly,Where The Stars And Stripes And The Eagle Fly,Aaron Tippin,['Aaron Tippin'],1tTZM7LUDkxcykOVVIGW4W,0.597,0.773,2.0,-4.053,1.0,0.0288,0.0351,3.85e-05,0.248,0.354,100.009,228200.0,4.0,4.0
+40,1.0,Love Of A Woman,Love of a Woman,Travis Tritt,['Travis Tritt'],7dVINsv6faqqTUelZdvd5U,0.324,0.574,7.0,-5.647,1.0,0.0292,0.239,0.0,0.143,0.335,74.101,217533.0,4.0,9.0
+41,1.0,My Sacrifice,My Sacrifice,Creed,['Creed'],2VSbEXqs6NbNiZSTcHlIDR,0.32,0.88,2.0,-6.035,1.0,0.0504,0.000101,4.31e-06,0.076,0.257,146.349,294600.0,4.0,3.0
+42,0.9594594594594594,God Bless The USA,God Bless The U.S.A.,Lee Greenwood,['Lee Greenwood'],623lYBOJ7bLwh1bu3yeN5V,0.299,0.422,5.0,-9.977,1.0,0.0285,0.0873,0.0,0.182,0.168,67.797,191600.0,4.0,7.0
+43,1.0,Where I Come From,Where I Come From,Alan Jackson,['Alan Jackson'],6ej1QJ8eIYmhsyTlvgDajy,0.726,0.631,11.0,-8.136,0.0,0.0334,0.22,0.0,0.193,0.746,124.711,239240.0,4.0,12.0
+44,1.0,Dance With Me,Dance With Me,112,['112'],6uRH1qMz30ZBwwUG0IYE5s,0.912,0.511,9.0,-6.365,1.0,0.203,0.0259,0.0,0.0442,0.611,101.628,231800.0,4.0,9.0
+45,0.7857142857142857,You Gets No Love,You Gets No Love (feat. P. Diddy & Loon),Faith Evans,"['Faith Evans', 'Loon', 'Diddy']",61kG6g3btiapbSVEj3D0Hb,0.749,0.677,5.0,-3.502,0.0,0.125,0.211,0.0,0.196,0.917,96.872,241400.0,4.0,6.0
+46,1.0,Angry All The Time,Angry All The Time,Tim McGraw,['Tim McGraw'],0khUsHfJrVCu3Pn4WuzNd5,0.545,0.498,2.0,-7.286,1.0,0.0266,0.195,0.0,0.169,0.363,127.604,270107.0,4.0,13.0
+47,1.0,Drive,Drive,Incubus,['Incubus'],7nnWIPM5hwE3DaUBkvOIpy,0.645,0.792,4.0,-7.34,0.0,0.036,0.0562,0.0121,0.119,0.666,90.565,232453.0,4.0,39.0
+48,1.0,I Wanna Talk About Me,I Wanna Talk About Me,Toby Keith,['Toby Keith'],3VHevS1BocAcrihLnl11DG,0.765,0.87,5.0,-5.191,1.0,0.0499,0.168,0.0,0.125,0.684,106.06,183960.0,4.0,5.0
+49,1.0,On A Night Like This,On a Night Like This,Trick Pony,['Trick Pony'],4ukCThz76ZkKJzTlmDlKpa,0.599,0.776,5.0,-5.292,1.0,0.0437,0.0443,0.0,0.0379,0.831,117.912,210427.0,4.0,16.0
+50,1.0,Love Of My Life,Love Of My Life,Brian McKnight,['Brian McKnight'],0pCDds54QUooGedfpHUjtW,0.649,0.445,6.0,-7.13,1.0,0.029,0.134,7.42e-06,0.116,0.335,123.767,281867.0,4.0,9.0
+51,1.0,Dig In,Dig In,Lenny Kravitz,['Lenny Kravitz'],0mBmE1IzBpbhfwEU4nd4ew,0.671,0.921,9.0,-3.878,1.0,0.0291,0.0129,0.0235,0.0579,0.825,118.424,217533.0,4.0,5.0
+52,0.7352941176470589,I'm A Survivor,I'm A Survivor,Reba,['Reba McEntire'],7DNp5wliOrg01iwvUnL3Tn,0.571,0.617,2.0,-5.032,1.0,0.0348,0.328,0.0,0.115,0.574,88.154,187373.0,4.0,9.0
+53,1.0,#1,#1,Nelly,['Nelly'],7rSj5gEdN5KgHwbnEVAZ4b,0.69,0.592,7.0,-5.973,1.0,0.3,0.0236,0.0,0.56,0.466,179.98,198760.0,4.0,4.0
+54,1.0,I'm A Slave 4 U,I'm a Slave 4 U,Britney Spears,['Britney Spears'],6ldwfK0yWgTAlmIfuQkTYN,0.847,0.843,5.0,-3.579,0.0,0.106,0.415,0.000134,0.107,0.963,110.027,203600.0,4.0,4.0
+55,1.0,Stuck In A Moment You Can't Get Out Of,Stuck In A Moment You Can't Get Out Of,U2,['U2'],3xjTuTBaihydhSC7ByNoSb,0.524,0.644,4.0,-4.986,1.0,0.0238,0.391,0.000246,0.168,0.324,158.52,271800.0,4.0,7.0
+56,1.0,You Rock My World,You Rock My World,Michael Jackson,['Michael Jackson'],1Lhwn4PqeGpM4LTVUowW76,0.854,0.673,4.0,-3.132,0.0,0.185,0.038,0.000227,0.255,0.955,95.0,337733.0,4.0,10.0
+57,1.0,I'm A Thug,I'm a Thug,Trick Daddy,['Trick Daddy'],6j2aNuhJJUnRj6UHcvn5PI,0.933,0.561,11.0,-5.961,1.0,0.122,0.0275,0.0,0.102,0.586,139.976,254400.0,4.0,17.0
+58,1.0,Feelin' On Yo Booty,Feelin' On Yo Booty,R. Kelly,['R. Kelly'],7cFQFr1VpkSp3BTIn7X719,0.737,0.258,10.0,-7.784,1.0,0.0528,0.259,2.71e-06,0.101,0.83,61.028,245867.0,4.0,12.0
+59,0.916303400174368,What's Going On,What's Going On?,All Star Tribute,['The JC Dook All-Stars'],3os2X2spqxtb2UcHRERBSK,0.646,0.743,6.0,-8.732,0.0,0.0517,0.244,0.0724,0.15,0.673,99.953,351464.0,4.0,6.0
+60,1.0,Run,Run,George Strait,['George Strait'],1EXMjx4nCIvYTaY5CZMUSl,0.544,0.57,2.0,-10.192,1.0,0.0326,0.462,0.00183,0.213,0.295,75.59,245427.0,4.0,3.0
+61,1.0,Riding With Private Malone,Riding With Private Malone,David Ball,['David Ball'],4yym5ZJXwvg03d4kyhLVZO,0.648,0.527,4.0,-8.862,1.0,0.0515,0.405,0.0,0.0978,0.515,93.93,275053.0,4.0,3.0
+62,0.4941724941724942,We Thuggin',We Thuggin' (feat. R. Kelly),Fat Joe Featuring R. Kelly,"['Fat Joe', 'R. Kelly']",2EcW94ak7kYH4mDMvI7iWg,0.896,0.649,8.0,-3.792,1.0,0.208,0.177,0.0,0.0759,0.822,99.107,213533.0,4.0,3.0
+63,0.8636363636363636,Wrapped Up In You,Wrapped up in You,Garth Brooks,['The Country Gentlemen'],5gR0VsFfbzEhpcK0oMRx7n,0.673,0.575,0.0,-8.171,1.0,0.0375,0.384,0.000141,0.0762,0.532,105.293,267297.0,4.0,3.0
+64,1.0,Wish You Were Here,Wish You Were Here,Incubus,['Incubus'],6KtLECDztnah63TNmV4Plw,0.246,0.768,9.0,-7.48,1.0,0.0387,0.000631,0.301,0.102,0.35,169.873,212733.0,4.0,8.0
+65,1.0,Who We Be,Who We Be,DMX,['DMX'],1RbnH7qjUyWJWh8kjFIYNw,0.723,0.833,7.0,-4.879,1.0,0.15,0.123,0.0,0.272,0.616,82.741,287867.0,4.0,5.0
+66,1.0,I'm Tryin',I'm Tryin',Trace Adkins,['Trace Adkins'],6bdtkSJ1OQJriFAwU3p6bZ,0.555,0.686,1.0,-4.883,1.0,0.0287,0.407,0.00972,0.09,0.437,80.057,221560.0,4.0,4.0
+67,1.0,"Whenever, Wherever","Whenever, Wherever",Shakira,['Shakira'],2lnzGkdtDj5mtlcOW2yRtG,0.794,0.832,1.0,-4.862,0.0,0.0407,0.237,1.14e-05,0.203,0.871,107.657,196160.0,4.0,3.0
+68,0.3584348468069398,Diddy,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,P. Diddy Featuring The Neptunes,"['Mario Winans', 'Enya', 'Diddy']",2yr2HnFYl7XvqJk4fXoQBt,0.833,0.515,11.0,-5.0,0.0,0.0462,0.347,0.00156,0.116,0.4,97.035,257333.0,4.0,3.0
+69,1.0,Fade,Fade,Staind,['Staind'],70b6WxS0cjxbQqvdu4Q4Sa,0.471,0.846,1.0,-3.632,1.0,0.0416,0.00209,0.0369,0.126,0.255,116.469,242600.0,4.0,4.0
+70,1.0,Wherever You Will Go,Wherever You Will Go,The Calling,['The Calling'],5QpaGzWp0hwB5faV8dkbAz,0.558,0.719,2.0,-5.113,1.0,0.0267,0.0367,0.0,0.115,0.371,112.027,208600.0,4.0,1.0
+71,1.0,A Woman's Worth,A Woman's Worth,Alicia Keys,['Alicia Keys'],1NRorokmYEtr1koWybvaE4,0.652,0.41,4.0,-8.323,0.0,0.158,0.333,0.0,0.064,0.495,75.09,303333.0,4.0,3.0
+72,0.65625,Alive,Alive - Chris Lord-Alge Mix,P.O.D.,['P.O.D.'],1X4Ntw6Lbaa1ACgilCqMpr,0.421,0.95,10.0,-3.985,1.0,0.0768,1.21e-05,0.000214,0.314,0.553,80.912,205027.0,4.0,2.0
+73,0.0,So Complicated,,Carolyn Dawn Johnson,,,,,,,,,,,,,,,,
+74,1.0,With Me,With Me,Lonestar,['Lonestar'],61XldWSH5dFwosPZToxNOf,0.617,0.907,9.0,-4.983,1.0,0.0399,0.0597,0.0,0.136,0.666,112.696,231840.0,4.0,3.0
+75,1.0,What Am I Gonna Do,What Am I Gonna Do,Tyrese,['Tyrese'],7FFQsnjzumC6eyCXRFPQ2f,0.691,0.476,10.0,-4.702,0.0,0.052,0.276,0.0,0.0951,0.541,145.602,280000.0,4.0,7.0
+76,1.0,"Lights, Camera, Action!","Lights, Camera, Action!",Mr. Cheeks,['Mr. Cheeks'],36gOOIQaBwXZVKL5z2vC3Z,0.792,0.93,1.0,-6.32,1.0,0.0693,0.115,0.0,0.292,0.812,105.505,261027.0,4.0,5.0
+77,1.0,In The End,In the End,Linkin Park,['Linkin Park'],60a0Rd6pjrkxjPbaKzXjfq,0.556,0.864,3.0,-5.87,0.0,0.0584,0.00958,0.0,0.209,0.4,105.143,216880.0,4.0,2.0
+78,1.0,Control,Control,Puddle Of Mudd,['Puddle Of Mudd'],575Sz3R4xOhueUstPObylF,0.444,0.913,6.0,-3.452,1.0,0.0992,0.00308,0.0,0.38,0.569,163.689,230067.0,4.0,5.0
+79,0.7692307692307692,What If,What If - Urban Mix,Babyface,['Babyface'],4AFhkn04YASMuvUxVMJKmW,0.745,0.451,11.0,-6.314,0.0,0.112,0.212,0.0,0.0975,0.481,143.908,246178.0,4.0,8.0
+80,0.7622950819672132,Every Other Time,Every Other Time - Radio Edit & Album Version,LFO,['LFO'],3uD4aRM8QoEAAhwpOke7QU,0.689,0.922,11.0,-4.56,1.0,0.0372,0.0143,0.0,0.335,0.72,103.975,247867.0,4.0,12.0
+81,1.0,When God-Fearin' Women Get The Blues,When God-Fearin' Women Get The Blues,Martina McBride,['Martina McBride'],78Pl98qYK16Egcle5fMx0G,0.603,0.707,2.0,-6.215,1.0,0.0804,0.118,0.0,0.14,0.455,141.837,299400.0,4.0,9.0
+82,1.0,Just In Case,Just in Case,Jaheim,['Jaheim'],0YHBvFhfCJHyP5qfgtiX1o,0.78,0.572,0.0,-6.797,1.0,0.0951,0.0618,0.0,0.0495,0.695,100.999,263866.0,4.0,20.0
+83,1.0,I Would've Loved You Anyway,I Would've Loved You Anyway,Trisha Yearwood,['Trisha Yearwood'],2onNmw7lzEoDRXl46jDO5O,0.36,0.418,6.0,-7.301,1.0,0.0284,0.477,8.92e-06,0.101,0.33,137.803,221893.0,4.0,15.0
+84,0.8414634146341464,I'm A Believer,I'm A Believer - Radio Edit,Smash Mouth,['Smash Mouth'],1RC5Mb0VhnlhnMlFDnrvE0,0.559,0.972,6.0,-3.524,1.0,0.0639,0.0198,6.47e-06,0.393,0.919,82.336,183400.0,4.0,17.0
+85,1.0,The Way,The Way,Jill Scott,['Jill Scott'],49aUxrufliNDGj7MTm7pNU,0.717,0.402,1.0,-9.712,1.0,0.0316,0.0187,0.0113,0.0994,0.453,140.418,255733.0,4.0,19.0
+86,1.0,Crawling,Crawling,Linkin Park,['Linkin Park'],57BrRMwf9LrcmuOsyGilwr,0.58,0.702,4.0,-5.565,1.0,0.0337,0.0466,3.2e-06,0.536,0.299,105.076,208960.0,4.0,14.0
+87,1.0,Bad Day,Bad Day,Fuel,['Fuel'],5z5ao3FAaVwHk1g7xuOBcB,0.291,0.735,9.0,-4.767,1.0,0.0415,0.000374,4.53e-06,0.0808,0.19,175.978,195467.0,4.0,16.0
+88,1.0,Angels In Waiting,Angels In Waiting,Tammy Cochran,['Tammy Cochran'],74h3Wdt3mkmA9GX3qqkkbH,0.691,0.366,6.0,-7.565,1.0,0.028,0.565,0.0,0.127,0.278,88.782,217667.0,4.0,6.0
+89,1.0,Brotha,Brotha,Angie Stone,['Angie Stone'],2sNAjuCXxyj8jHt93t9IJ9,0.801,0.434,7.0,-9.174,0.0,0.376,0.538,0.0,0.0729,0.661,132.254,268133.0,4.0,1.0
+90,0.8050847457627119,Contagious,Contagious,The Isley Brothers Featuring Ronald Isley,['The Isley Brothers'],7HjJQunSPwkXXVnGeItUEH,0.709,0.449,4.0,-7.251,0.0,0.04,0.24,0.0,0.134,0.204,113.023,346467.0,4.0,18.0
+91,1.0,Break Ya Neck,Break Ya Neck,Busta Rhymes,['Busta Rhymes'],7gKgd0P3dAAePiSQQBqrlf,0.82,0.809,4.0,-6.759,0.0,0.251,0.443,0.00175,0.0613,0.737,83.011,231240.0,4.0,1.0
+92,0.7152439024390245,Do U Wanna Roll (Dolittle Theme),"Peaches (Remix) feat. Ludacris, Usher & Snoop Dogg","R.L., Snoop Dogg & Lil' Kim","['Justin Bieber', 'Usher', 'Snoop Dogg', 'Ludacris']",5E75Cr0oqxGoX0YYwdC3nZ,0.64,0.69,0.0,-6.489,1.0,0.235,0.399,0.0,0.463,0.59,89.906,229473.0,4.0,6.0
+93,0.7093023255813954,Fatty Girl,Fatty Girl,"Ludacris, LL Cool J & Keith Murray","['LL Cool J', 'Ludacris', 'Keith Murray']",7gUk6jBAXio5xONTkoYDCq,0.775,0.742,6.0,-5.659,1.0,0.285,0.034,0.0,0.0951,0.882,102.19,233760.0,4.0,2.0
+94,0.9883720930232558,Roll Out (My Business),Rollout (My Business),Ludacris,['Ludacris'],4SyadrABZJIjeND1HPJS31,0.921,0.668,7.0,-8.73,1.0,0.235,0.0949,0.0,0.592,0.892,131.059,296587.0,4.0,1.0
+95,0.8463949843260188,I'll Fly With You (L'amour Toujours),Gigi D'Agostino - I'll Fly With You - Dj Diego Costa Remix 2020,Gigi D'Agostino,['Dj Diego Costa'],2xF7L54uTJCMAZsirmcjKK,0.669,0.662,7.0,-6.649,1.0,0.0306,0.00788,0.109,0.477,0.591,135.007,331340.0,4.0,13.0
+96,0.8166666666666667,From Her Mama (Mama Got A**),Juvenile Presumption,Juvenile,['Cosmic Twang'],4oe4dv3FU1Nc4Xpn5Mgqjr,0.382,0.691,5.0,-6.602,1.0,0.036,0.000461,0.265,0.108,0.238,170.089,361093.0,4.0,1.0
+97,1.0,Set It Off,Set It Off,Juvenile,['JUVENILE'],44LFap7VrB4356vfbQOZHg,0.695,0.595,1.0,-9.091,1.0,0.194,0.18,1.2e-05,0.087,0.746,168.136,257000.0,4.0,14.0
+98,0.8243243243243243,Take You Out,Take You Out - Radio Edit,Luther Vandross,['Luther Vandross'],650M98AP1WgRo1jJ0snmoI,0.752,0.575,8.0,-5.254,1.0,0.0549,0.077,0.0,0.125,0.569,86.004,206067.0,4.0,16.0
+99,0.646505376344086,Ballin' Out Of Control,Ballin' Out of Control (feat. Nate Dogg),Jermaine Dupri Featuring Nate Dogg,"['Jermaine Dupri', 'Nate Dogg']",65EZ286Mq5YZDPm1PF0JC5,0.907,0.66,9.0,-5.585,0.0,0.222,0.229,1.41e-06,0.326,0.833,97.009,188027.0,4.0,4.0

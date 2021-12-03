@@ -1,0 +1,101 @@
+,match,billboard_track,spotify_track,billboard_artist,spotify_artist,spotify_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,weeks
+0,1.0,Informer,Informer,Snow,['Snow'],2LjiPAQOVazT8sRyXL3XRs,0.763,0.742,6.0,-10.975,0.0,0.188,0.0984,0.0,0.38,0.483,98.145,268910.0,4.0,11.0
+1,1.0,"Nuthin' But A ""G"" Thang","Nuthin' But A ""G"" Thang",Dr. Dre,"['Dr. Dre', 'Snoop Dogg']",4YtoipFgf4k0AfD17ZfD5X,0.801,0.699,11.0,-8.18,0.0,0.279,0.00575,0.0,0.146,0.655,94.605,238467.0,4.0,8.0
+2,1.0,Freak Me,Freak Me,Silk,['Silk'],5CdJveJgiGXoGwDFqF6afp,0.697,0.608,4.0,-10.976,0.0,0.0463,0.0295,0.0,0.276,0.725,133.879,274533.0,4.0,5.0
+3,0.8076923076923077,A Whole New World (Aladdin's Theme),A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,"['Peabo Bryson', 'Regina Belle']",4tS8xQfyPGc7f4lJ1JP6BX,0.516,0.32,2.0,-10.487,1.0,0.0303,0.627,0.0,0.144,0.131,107.894,243493.0,4.0,14.0
+4,0.7830188679245282,"I'm Every Woman (From ""The Bodyguard"")",I'm Every Woman,Whitney Houston,['Whitney Houston'],2eHj0klWkwRQuIrNlPpCPa,0.665,0.847,5.0,-8.314,0.0,0.0535,0.0178,0.00288,0.126,0.4,119.555,285107.0,4.0,11.0
+5,1.0,Ordinary World,Ordinary World,Duran Duran,['Duran Duran'],0wokCRaKD0zPNhMRXAgVsr,0.472,0.652,1.0,-10.171,0.0,0.0305,0.0131,1.12e-05,0.14,0.401,140.124,340200.0,4.0,11.0
+6,1.0,Don't Walk Away,Don't Walk Away,Jade,['Jade'],7tsRp7QKUBp6hc9bth0h7x,0.831,0.915,10.0,-7.501,0.0,0.128,0.147,0.00571,0.196,0.881,102.979,216373.0,4.0,14.0
+7,1.0,Mr. Wendal,Mr. Wendal,Arrested Development,['Arrested Development'],5DOYik1z3Of1wAFfY3dYbC,0.884,0.37,8.0,-11.353,1.0,0.112,0.0188,0.00423,0.026,0.883,109.997,247507.0,4.0,14.0
+8,1.0,I Have Nothing,I Have Nothing,Whitney Houston,['Whitney Houston'],31er9IGsfFbwqy1pH4aiTP,0.541,0.401,0.0,-10.499,1.0,0.0365,0.576,0.0,0.164,0.24,152.943,289160.0,3.0,4.0
+9,1.0,Bed Of Roses,Bed Of Roses,Bon Jovi,['Bon Jovi'],1zng9uqqXoPkmU05nsAlsw,0.309,0.596,5.0,-5.599,1.0,0.0293,0.101,0.0,0.21,0.161,164.587,394400.0,3.0,9.0
+10,1.0,I Will Always Love You,I Will Always Love You,Whitney Houston,['Whitney Houston'],4eHbdreAnSOrDDsFfc4Fpm,0.332,0.214,4.0,-12.518,1.0,0.0349,0.845,5.62e-06,0.0839,0.11,67.531,271093.0,4.0,19.0
+11,1.0,Hip Hop Hooray,Hip Hop Hooray,Naughty By Nature,['Naughty By Nature'],1w29UTa5uUvIri2tWtZ12Y,0.862,0.642,6.0,-13.652,0.0,0.101,0.102,0.0,0.272,0.765,99.201,267267.0,4.0,8.0
+12,1.0,Comforter,Comforter,Shai,['Shai'],6vHJpgX1QTYa9SVXankGVR,0.725,0.384,7.0,-12.64,1.0,0.0317,0.00569,0.00022,0.158,0.497,121.9,250600.0,4.0,9.0
+13,1.0,I Got A Man,I Got A Man,Positive K,['Positive K'],4iAYo83eWlktjw97oebIal,0.812,0.753,7.0,-13.252,1.0,0.118,0.0774,0.0,0.341,0.787,103.754,232773.0,4.0,14.0
+14,1.0,Two Princes,Two Princes,Spin Doctors,['Spin Doctors'],4ePP9So5xRzspjLFVVbj90,0.543,0.912,7.0,-10.71,1.0,0.0601,0.00162,2.1e-06,0.0565,0.836,103.731,256733.0,4.0,8.0
+15,0.7972972972972974,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",The Right Kind of Love,Jeremy Jordan,['Jeremy Jordan'],2wZoBFqwT0Tpm9XW0oiRMZ,0.717,0.634,5.0,-7.736,0.0,0.036,0.115,0.0,0.0782,0.896,178.064,273933.0,4.0,15.0
+16,0.9864864864864865,Cat's In The Cradle,Cats In The Cradle,Ugly Kid Joe,['Ugly Kid Joe'],5x9RZg7HfXGY3JayXL3seF,0.511,0.517,8.0,-9.653,1.0,0.0328,0.13,0.0,0.074,0.433,75.67,241893.0,4.0,6.0
+17,1.0,Forever In Love,Forever in Love,Kenny G,['Kenny G'],13cpOnmccZGVGFngLxYN4I,0.343,0.318,5.0,-14.901,1.0,0.0312,0.336,0.158,0.17,0.11,81.993,299493.0,4.0,14.0
+18,0.896551724137931,That's What Love Can Do,That's What Love Can Do - Radio Mix,Boy Krazy,['Boy Krazy'],4VOQLjmETAE5NLcFMwvUXC,0.783,0.773,5.0,-7.541,0.0,0.0493,0.0103,0.000162,0.0349,0.744,117.471,202000.0,4.0,9.0
+19,0.6463414634146342,7,7,Prince And The New Power Generation,"['Prince', 'The New Power Generation']",1ESmMKaASDxFICpa5eyqzo,0.747,0.749,9.0,-6.255,1.0,0.0563,0.0917,0.0,0.0444,0.562,100.721,310467.0,4.0,17.0
+20,0.8617021276595744,Here We Go Again!,Here We Go Again! - Radio Edit,Portrait,['Portrait'],5rIr1MOh4cWwpdln1QqTPS,0.771,0.745,11.0,-10.217,0.0,0.0904,0.0256,0.000374,0.107,0.599,106.709,235200.0,4.0,19.0
+21,1.0,Ditty,Ditty,Paperboy,['Paperboy'],2JaHnS7CcIPoc7Il4BkqdR,0.838,0.452,11.0,-15.219,0.0,0.0547,0.0509,0.0,0.0666,0.708,99.075,245030.0,4.0,14.0
+22,1.0,I'm So Into You,I'm So Into You,SWV,['SWV'],5A0aUvnfAEcmUx3hoXjI8R,0.85,0.513,7.0,-10.663,1.0,0.0513,0.0624,0.00249,0.0689,0.623,99.01,278333.0,4.0,7.0
+23,1.0,Get Away,Get Away,Bobby Brown,['Bobby Brown'],62cC8knNydvmC1JPZExWTD,0.816,0.765,1.0,-6.538,0.0,0.0378,0.0264,1.66e-05,0.0389,0.856,111.751,310497.0,4.0,10.0
+24,0.6287878787878788,"Love Is (From ""Beverly Hills, 90210"")",Love Is,Vanessa Williams/Brian McKnight,['Vanessa Williams And Brian McKnight'],7z8NZEvwZU6PzYAzkw3DWE,0.487,0.361,1.0,-9.97,1.0,0.0236,0.379,2.88e-05,0.12,0.177,79.857,284960.0,4.0,9.0
+25,1.0,Rebirth Of Slick (Cool Like Dat),Rebirth Of Slick (Cool Like Dat),Digable Planets,['Digable Planets'],26q6YTrXt9l8qshIveiTX9,0.884,0.334,1.0,-18.943,0.0,0.228,0.0476,0.0588,0.107,0.571,98.315,261267.0,4.0,10.0
+26,1.0,Heal The World,Heal the World,Michael Jackson,['Michael Jackson'],7woW97CfcWaKtuC6W5BP2K,0.545,0.485,9.0,-8.045,1.0,0.0485,0.537,1.8e-06,0.104,0.101,80.948,384307.0,4.0,15.0
+27,1.0,Angel,Angel,Jon Secada,['Jon Secada'],543d68hZ4dzVePFfdVc0Ki,0.485,0.477,0.0,-8.948,1.0,0.0262,0.295,3.35e-05,0.202,0.134,151.704,275040.0,4.0,8.0
+28,1.0,Sweet Thing,Sweet Thing,Mary J. Blige,['Mary J. Blige'],3X3XuCPTC95ARm9SguWsIa,0.69,0.651,9.0,-7.86,1.0,0.101,0.343,9.56e-05,0.178,0.691,79.305,225333.0,4.0,6.0
+29,1.0,Hat 2 Da Back,Hat 2 da Back,TLC,['TLC'],4IBzgsoWHLsP8AMlO23iOF,0.701,0.697,10.0,-12.643,0.0,0.0912,0.000888,0.485,0.301,0.616,108.554,256427.0,4.0,7.0
+30,0.7972972972972974,"Saving Forever For You (From ""Beverly Hills, 90210"")",Saving Forever for You,Shanice,['Shanice'],6pVU9bk1Tvbqlq719vJooz,0.655,0.545,9.0,-8.163,1.0,0.0342,0.494,0.0,0.0417,0.463,133.358,268733.0,4.0,22.0
+31,1.0,If I Ever Fall In Love,If I Ever Fall In Love,Shai,['Shai'],1jCsCYgzQQHk3bDJDuFbNi,0.402,0.205,6.0,-11.232,1.0,0.038,0.758,0.0,0.147,0.42,143.994,189027.0,4.0,23.0
+32,1.0,Man On The Moon,Man On The Moon,R.E.M.,['R.E.M.'],4jLv3tDBu8ww2R07DvL12s,0.667,0.699,7.0,-7.574,1.0,0.026,0.42,0.000442,0.201,0.655,118.567,314173.0,4.0,7.0
+33,0.8913043478260869,Rhythm Is A Dancer,"Rhythm Is A Dancer - 7"" Edit",Snap!,['SNAP!'],4RADreHMvMkZwsPgPr9z5c,0.794,0.745,9.0,-11.367,0.0,0.037,0.273,0.000414,0.143,0.706,124.249,225882.0,4.0,32.0
+34,1.0,If I Ever Lose My Faith In You,If I Ever Lose My Faith In You,Sting,['Sting'],05vL56xSoxthM0r7IfcQjo,0.575,0.727,2.0,-9.539,1.0,0.0281,0.00952,0.00754,0.054,0.504,97.995,270533.0,4.0,5.0
+35,1.0,Rump Shaker,Rump Shaker,Wreckx-N-Effect,['Wreckx-N-Effect'],4dY4JVC0Q9CwpeZ6JAclIc,0.888,0.822,5.0,-6.843,0.0,0.219,0.0025,0.0197,0.303,0.233,102.753,312360.0,4.0,25.0
+36,0.9651162790697674,"In The Still Of The Nite (From ""The Jacksons"")",In The Still Of The Nite (I'll Remember),Boyz II Men,['Boyz II Men'],2tbSiDmrerPi24rEIBwtkh,0.537,0.184,9.0,-15.886,1.0,0.0381,0.792,0.0,0.126,0.217,77.817,169840.0,4.0,17.0
+37,1.0,It Was A Good Day,It Was A Good Day,Ice Cube,['Ice Cube'],2qOm7ukLyHUXWyR4ZWLwxA,0.798,0.744,7.0,-5.328,0.0,0.136,0.33,0.000106,0.292,0.794,82.356,260000.0,4.0,3.0
+38,1.0,Bad Girl,Bad Girl,Madonna,['Madonna'],2tySjBBWqam7oaBUZ26oNL,0.645,0.484,11.0,-11.233,0.0,0.0396,0.0211,3.88e-06,0.0495,0.52,146.897,323333.0,4.0,5.0
+39,1.0,Nothin' My Love Can't Fix,Nothin' My Love Can't Fix,Joey Lawrence,['Joey Lawrence'],15ni9ro5GuIad268WAZN32,0.657,0.909,7.0,-6.322,1.0,0.0918,0.0131,0.000623,0.211,0.606,106.122,243267.0,4.0,3.0
+40,1.0,Do You Believe In Us,Do You Believe In Us,Jon Secada,['Jon Secada'],3u5e3ovyvQLoauwUzWezvX,0.662,0.891,3.0,-7.245,1.0,0.0349,0.0103,3.64e-06,0.634,0.743,107.75,239267.0,4.0,26.0
+41,0.7777777777777778,I Feel You,I Feel You - 2006 Remaster,Depeche Mode,['Depeche Mode'],1Ob57NqUydp5cC3FCNV4Gy,0.454,0.935,2.0,-6.541,1.0,0.0907,0.024,0.0408,0.493,0.144,122.9,276080.0,3.0,3.0
+42,1.0,"Give It Up, Turn It Loose","Give It Up, Turn It Loose",En Vogue,['En Vogue'],61vIGLnOsYaydUUKfJ9XC5,0.836,0.58,1.0,-8.778,1.0,0.0692,0.19,0.000271,0.0379,0.939,93.015,312040.0,4.0,16.0
+43,1.0,Dazzey Duks,Dazzey Duks,Duice,['Duice'],26yQYGCXD9ypPW8eeXa1gx,0.884,0.464,1.0,-12.876,1.0,0.222,0.000925,4.36e-06,0.0366,0.868,132.172,244867.0,4.0,11.0
+44,1.0,Good Enough,Good Enough,Bobby Brown,['Bobby Brown'],3WFQ6pEp1BRXrDKQ825ze7,0.651,0.743,2.0,-9.254,1.0,0.0364,0.00526,0.000341,0.0406,0.533,90.2,302093.0,4.0,23.0
+45,1.0,So Alone,So Alone,Men At Large,['Men At Large'],39SV8I6A8knhMZ2yv1LUnM,0.629,0.364,9.0,-12.721,0.0,0.0286,0.0754,0.0,0.0258,0.471,122.083,447547.0,4.0,5.0
+46,0.8333333333333333,"I'd Die Without You (From ""Boomerang"")",I'd Die Without You,P.M. Dawn,['P.M. Dawn'],5MAWGXxVxFNig7swSJUTP5,0.543,0.266,1.0,-18.813,1.0,0.0443,0.256,0.00093,0.0993,0.343,79.992,250693.0,4.0,28.0
+47,0.7982456140350878,I'm Gonna Get You,I'm Gonna Get You - Original Flavour Mix,Bizarre Inc,['Bizarre Inc'],4EzZPB8OujNAeND6C2SduJ,0.742,0.734,1.0,-11.393,1.0,0.04,0.0153,0.728,0.0493,0.723,126.988,319493.0,4.0,9.0
+48,1.0,Real Love,Real Love,Mary J. Blige,['Mary J. Blige'],3XG801WWhqC753dekEBkMt,0.769,0.781,0.0,-5.472,1.0,0.0797,0.119,0.000371,0.0506,0.826,95.02,269973.0,4.0,30.0
+49,1.0,Simple Life,Simple Life,Elton John,['Elton John'],1KkPY76tgPzEnL8hdqTiIu,0.663,0.788,5.0,-7.484,1.0,0.0314,0.00838,0.143,0.19,0.476,101.779,386000.0,4.0,4.0
+50,1.0,Supermodel (You Better Work),Supermodel (You Better Work),RuPaul,['RuPaul'],1AAwAM9IjTlvi8x10kc2I1,0.792,0.562,7.0,-11.379,1.0,0.0929,0.0152,7.48e-05,0.428,0.592,126.222,239933.0,4.0,6.0
+51,1.0,Little Bird,Little Bird,Annie Lennox,['Annie Lennox'],1KX8GhTteEUlkbfzaRzbsx,0.767,0.521,9.0,-9.145,1.0,0.0351,0.249,0.00128,0.303,0.672,124.995,292426.0,4.0,9.0
+52,0.95,Everything's Gonna Be Alright,Everything's Gonna Be Alright,Father M.C.,['Father MC'],78Nx4qNwmATqqcs4biKW1T,0.796,0.735,6.0,-6.998,0.0,0.205,0.221,0.0,0.685,0.806,108.234,223840.0,4.0,16.0
+53,1.0,I See Your Smile,I See Your Smile,Gloria Estefan,['Gloria Estefan'],056uvAVDFOa7kv9idKPpf0,0.403,0.457,9.0,-8.984,1.0,0.0272,0.237,0.0,0.185,0.231,79.188,274133.0,4.0,5.0
+54,1.0,Looking Through Patient Eyes,Looking Through Patient Eyes,P.M. Dawn,['P.M. Dawn'],5XT320MZDtmX9Qz4wq0tD8,0.786,0.372,8.0,-17.765,1.0,0.0536,0.19,5.9e-06,0.129,0.685,102.237,249667.0,4.0,1.0
+55,1.0,When She Cries,When She Cries,Restless Heart,['Restless Heart'],61EQfJXizp4MIpLYWyLoQI,0.666,0.521,9.0,-10.993,1.0,0.0292,0.114,0.0,0.0604,0.361,105.223,222187.0,4.0,19.0
+56,0.7727272727272727,"The Crying Game (From ""The Crying Game"")",The Crying Game,Boy George,['Boy George'],1FdUklYyUeOtahVc2WjLkt,0.593,0.54,4.0,-13.302,0.0,0.0299,0.076,0.00108,0.111,0.577,99.995,202973.0,4.0,2.0
+57,1.0,Walk On The Ocean,Walk On the Ocean,Toad The Wet Sprocket,['Toad The Wet Sprocket'],2JAECj9kBYQHb8AqJ2rsxt,0.395,0.502,6.0,-8.328,1.0,0.0309,0.236,5.79e-06,0.332,0.323,183.237,178376.0,3.0,19.0
+58,1.0,Beautiful Girl,Beautiful Girl,INXS,['INXS'],6N81xlWzMaEYhjHry55OSI,0.675,0.666,11.0,-6.067,1.0,0.027,0.0187,0.692,0.112,0.434,120.558,207547.0,4.0,5.0
+59,1.0,Faithful,Faithful,Go West,['Go West'],6lP1Tmf5VdZYviohSQoMiH,0.615,0.912,10.0,-8.028,0.0,0.0416,0.0323,0.0,0.0966,0.753,105.538,265560.0,4.0,20.0
+60,1.0,No Mistakes,No Mistakes,Patty Smyth,['Patty Smyth'],1Ak9nTnQiO4o6CdNWhk7gq,0.691,0.6,9.0,-9.015,1.0,0.026,0.0364,0.0,0.174,0.518,111.366,323427.0,4.0,13.0
+61,1.0,Love U More,Love U More,Sunscreem,['Sunscreem'],0JjMXxzPJ221NcAO3GmFdj,0.602,0.821,2.0,-8.844,1.0,0.0332,0.191,0.0,0.265,0.493,126.085,251693.0,4.0,4.0
+62,1.0,Stand,Stand,Poison,['Poison'],6SWdFhPuHxGNcO4HvJQrgw,0.409,0.804,8.0,-6.473,1.0,0.0356,0.0433,8.8e-05,0.0917,0.422,185.882,315773.0,4.0,8.0
+63,1.0,Tell The Truth,Tell the Truth,Jude Cole,['Jude Cole'],62LY77Mh0BH0TDQSNBkxt4,0.532,0.609,10.0,-9.312,1.0,0.0268,0.145,1.49e-06,0.059,0.426,79.877,327267.0,4.0,9.0
+64,1.0,Passionate Kisses,Passionate Kisses,Mary Chapin Carpenter,['Mary Chapin Carpenter'],4CzyLocgGmnRxSlHaKvYGB,0.625,0.819,2.0,-6.142,1.0,0.0361,0.589,0.0,0.201,0.733,139.642,201907.0,4.0,6.0
+65,0.7105263157894737,Dedicated,Dedicated,R. Kelly & Public Announcement,"['R. Kelly', 'Public Announcement']",3lmn7LmNwdeqplUa0qvnrU,0.677,0.495,8.0,-10.482,1.0,0.0263,0.139,8.21e-06,0.0351,0.45,136.136,277907.0,4.0,4.0
+66,1.0,Down With The King,Down With the King,Run-D.M.C.,['Run–D.M.C.'],2oSPru8bef0EMhF9tvMSLn,0.786,0.637,1.0,-12.149,1.0,0.205,0.07,1.31e-05,0.415,0.762,96.023,302627.0,4.0,1.0
+67,1.0,Murder She Wrote,Murder She Wrote,Chaka Demus & Pliers,['Chaka Demus & Pliers'],1HGyhNaRUFEDBiVLbvtbL6,0.883,0.733,11.0,-9.153,0.0,0.128,0.161,0.00026,0.334,0.947,95.103,245000.0,4.0,12.0
+68,1.0,Tap The Bottle,Tap The Bottle,Young Black Teenagers,['Young Black Teenagers'],1tqpUCOGNVjUOKvOqxChRb,0.889,0.608,11.0,-9.396,1.0,0.287,0.00134,0.0,0.0852,0.569,104.005,240107.0,4.0,3.0
+69,1.0,I Got A Thang 4 Ya!,I Got A Thang 4 Ya!,Lo-Key?,['Lo-Key?'],44tMr9ypzWXXFq0wjDqphF,0.756,0.65,6.0,-8.004,1.0,0.0457,0.307,0.0,0.0606,0.788,132.274,340867.0,4.0,19.0
+70,1.0,Come In Out Of The Rain,Come In Out Of The Rain,Wendy Moten,['Wendy Moten'],0KMZsxJalrqyJSWghlpPmb,0.59,0.559,5.0,-8.916,1.0,0.0269,0.158,3.96e-06,0.361,0.311,114.327,257800.0,4.0,5.0
+71,0.8,Never A Time,Never a Time - 2007 Remaster,Genesis,['Genesis'],39GQI777IY2AxHtx36x7qS,0.574,0.526,0.0,-8.274,1.0,0.0254,0.517,0.0117,0.35,0.289,76.979,230160.0,4.0,20.0
+72,1.0,Homies,Homies,Lighter Shade Of Brown,['Lighter Shade Of Brown'],3kk66lcmo2blwB1uLHMkPJ,0.779,0.386,7.0,-14.384,1.0,0.301,0.221,0.00071,0.115,0.376,193.574,211800.0,4.0,15.0
+73,1.0,Shoop Shoop (Never Stop Givin' You Love),Shoop Shoop (Never Stop Givin' You Love),Michael Cooper,['Michael Cooper'],5fknQFkpTHBqFCtQQsJAHC,0.702,0.573,2.0,-10.421,1.0,0.0375,0.12,0.0,0.0893,0.627,136.443,256307.0,4.0,2.0
+74,1.0,Quality Time,Quality Time,Hi-Five,['Hi-Five'],5O2eGBugaBlEDpWP5tPs2L,0.644,0.674,6.0,-6.998,1.0,0.0345,0.0761,0.0,0.0659,0.656,155.907,283067.0,4.0,16.0
+75,0.8766233766233766,"Love Shoulda Brought You Home (From ""Boomerang"")",Love Shoulda Brought You Home,Toni Braxton,['Toni Braxton'],4IsnUEgEcb7epezwgWCBJn,0.556,0.798,2.0,-6.531,1.0,0.0367,0.0549,4.33e-06,0.37,0.59,175.653,298227.0,4.0,19.0
+76,1.0,Easy,Easy,Faith No More,['Faith No More'],4Y3WqmBWmG23thvU9xEhMv,0.506,0.554,10.0,-6.743,0.0,0.0339,0.339,0.000355,0.112,0.375,124.724,186960.0,4.0,1.0
+77,1.0,She's Not Cryin' Anymore,She's Not Cryin' Anymore,Billy Ray Cyrus,['Billy Ray Cyrus'],5dlXZv1VpEbDgKUQgsTWJV,0.611,0.309,2.0,-12.084,1.0,0.0246,0.344,1.82e-06,0.338,0.606,88.556,205773.0,4.0,2.0
+78,1.0,Steam,Steam,Peter Gabriel,['Peter Gabriel'],4x8g2OO1JhtmZz6psVAEOH,0.7,0.889,6.0,-5.027,1.0,0.0764,0.127,0.000374,0.261,0.681,108.515,363093.0,4.0,14.0
+79,0.40448756822316556,Romeo,"Romeo (with Billy Ray Cyrus, Tanya Tucker, Mary Chapin Carpenter, Kathy Mattea & Pam Tillis)",Dolly Parton & Friends,"['Dolly Parton', 'Billy Ray Cyrus', 'Tanya Tucker', 'Mary Chapin Carpenter', 'Kathy Mattea', 'Pam Tillis']",1iKWEkFBENe8PcOVXXkXg8,0.685,0.661,7.0,-11.741,1.0,0.0528,0.241,0.0,0.0683,0.745,115.862,214027.0,4.0,2.0
+80,1.0,Candy Everybody Wants,Candy Everybody Wants,"10,000 Maniacs","['10,000 Maniacs']",32xXojNvbRTQ9qfb3mWR69,0.622,0.876,10.0,-6.31,1.0,0.0305,0.0193,0.00684,0.0987,0.867,104.97,185960.0,4.0,3.0
+81,1.0,Deeper And Deeper,Deeper and Deeper,Madonna,['Madonna'],6KU8g98m1tcrUXRNjPQeOI,0.659,0.818,7.0,-7.09,0.0,0.0265,0.00601,0.299,0.336,0.39,119.943,333467.0,4.0,16.0
+82,0.0,Understand This Groove,,Sound Factory,,,,,,,,,,,,,,,,
+83,1.0,Knock-N-Boots,Knock-N-Boots,Wreckx-N-Effect,['Wreckx-N-Effect'],0UxEiVVQuhje4Tnmw6Yijl,0.849,0.848,8.0,-5.636,0.0,0.284,0.149,0.0,0.0746,0.626,103.778,291027.0,4.0,5.0
+84,1.0,What You Won't Do For Love,What You Won't Do for Love,Go West,['Go West'],5zKAdA9tZ9hsxiL4nmFvJ3,0.59,0.803,4.0,-7.088,0.0,0.0485,0.293,1.49e-05,0.0691,0.809,169.127,266800.0,4.0,2.0
+85,0.9848484848484849,Who Got The Props,Who Got Da Props,Black Moon,['Black Moon'],5CRM9TgBcwRbK3LyHUJhrQ,0.805,0.653,8.0,-11.251,0.0,0.185,0.138,0.0,0.1,0.257,100.349,270067.0,4.0,4.0
+86,1.0,Hope Of Deliverance,Hope Of Deliverance,Paul McCartney,['Paul McCartney'],3gcAVW0ZYaajy5PK9dAhut,0.638,0.786,9.0,-10.915,0.0,0.0341,0.181,5.3e-06,0.104,0.812,159.996,202000.0,4.0,5.0
+87,1.0,Gangsta Bitch,Gangsta Bitch,Apache,['Apache'],5wDwRWRJmRkVbg0d7vH4Lx,0.873,0.487,7.0,-14.872,1.0,0.412,0.141,0.0,0.269,0.611,97.445,284067.0,4.0,8.0
+88,0.9848484848484849,Born 2 B.R.E.E.D.,Born 2 B.R.E.E.D,Monie Love,['Monie Love'],56CSzcztw3DQYFS7U2DFip,0.633,0.827,5.0,-8.859,0.0,0.125,0.338,2.16e-05,0.335,0.807,102.879,233093.0,4.0,2.0
+89,1.0,Somebody Love Me,Somebody Love Me,Michael W. Smith,['Michael W. Smith'],5MtTg40bqOXNVcrZJ0CRYE,0.441,0.538,9.0,-8.597,1.0,0.0253,0.241,0.0,0.105,0.302,151.82,238267.0,4.0,2.0
+90,1.0,Reminisce,Reminisce,Mary J. Blige,['Mary J. Blige'],0EWT5JnKOf6saRn4ASff3j,0.647,0.699,9.0,-8.122,0.0,0.0668,0.0397,3.15e-05,0.154,0.53,91.435,323133.0,4.0,14.0
+91,1.0,Kiss Of Life,Kiss of Life,Sade,['Sade'],65krtHkaYLPr0mEbjL61UP,0.723,0.47,6.0,-11.302,0.0,0.028,0.633,0.0373,0.0968,0.783,97.107,251333.0,4.0,1.0
+92,1.0,Save Your Love,Save Your Love,Bad Boys Blue,['Bad Boys Blue'],0OJ0fsIrIT1aKjkO3jc39e,0.552,0.87,7.0,-10.393,0.0,0.0348,0.0026,0.0282,0.153,0.905,122.018,243333.0,4.0,2.0
+93,1.0,Good Ol' Days,Good Ol' Days,Levert,['Levert'],1U5Y5BhGG0kO6gULUheEnY,0.651,0.753,7.0,-9.143,1.0,0.0456,0.216,0.000119,0.105,0.915,87.052,245133.0,4.0,1.0
+94,1.0,No Ordinary Love,No Ordinary Love,Sade,['Sade'],1oaaSrDJimABpOdCEbw2DJ,0.629,0.364,11.0,-12.259,0.0,0.038,0.467,0.0204,0.0941,0.701,166.266,440467.0,4.0,20.0
+95,1.0,Give It To You,Give It To You,Martha Wash,['Martha Wash'],43q7tUWo0XY7znhZf9bEAK,0.793,0.824,11.0,-7.325,0.0,0.058,0.00949,0.531,0.0596,0.76,114.059,229907.0,4.0,2.0
+96,0.7380952380952381,Speed,Speed (Hardcore),Alpha Team,['Alpha Team'],4RknwcXE2mMJTx3KkBriTO,0.571,0.604,0.0,-14.474,1.0,0.051,0.000279,0.593,0.0557,0.799,150.019,378187.0,4.0,8.0
+97,1.0,I Love You Period,I Love You Period,Dan Baird,['Dan Baird'],08FaxmURVgqiY9HDlW1wrh,0.543,0.873,9.0,-8.951,1.0,0.0324,0.0194,0.000372,0.324,0.945,114.195,264000.0,4.0,16.0
+98,1.0,Stand Up (Kick Love Into Motion),Stand Up (Kick Love Into Motion),Def Leppard,['Def Leppard'],0dr71rw5oIcPtUHRJES6gP,0.603,0.779,4.0,-7.479,1.0,0.0273,0.0854,1.58e-05,0.0628,0.792,103.027,272871.0,4.0,15.0
+99,0.0,Love Me The Right Way,,Rapination & Kym Mazelle,,,,,,,,,,,,,,,,

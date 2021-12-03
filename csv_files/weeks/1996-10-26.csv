@@ -1,0 +1,101 @@
+,match,billboard_track,spotify_track,billboard_artist,spotify_artist,spotify_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,weeks
+0,0.9821428571428572,Macarena (Bayside Boys Mix),Macarena - Bayside Boys Remix,Los Del Rio,['Los Del Rio'],2df5QsXucx4VLiHNGusXD5,0.737,0.93,1.0,-6.083,1.0,0.0534,0.237,1.57e-06,0.0911,0.965,103.191,253107.0,4.0,45.0
+1,1.0,It's All Coming Back To Me Now,It's All Coming Back to Me Now,Celine Dion,['Céline Dion'],5EQzuYfTZt7B2LqlvTF49l,0.384,0.438,0.0,-9.149,1.0,0.0362,0.753,0.0,0.101,0.287,87.903,456867.0,4.0,11.0
+2,0.39401229617749267,No Diggity,No Diggity (Karaoke-Version) As Made Famous By: Blackstreet Featuring Dr. Dre,BLACKstreet (Featuring Dr. Dre),['Studio Group'],138a7rJxyR3qKsLSPNO4uH,0.849,0.379,1.0,-10.546,0.0,0.0614,0.139,0.0917,0.0448,0.44,89.007,267053.0,4.0,3.0
+3,1.0,I Love You Always Forever,I Love You Always Forever,Donna Lewis,['Donna Lewis'],1PEqh7awkpuepLBSq8ZwqD,0.744,0.453,5.0,-11.977,1.0,0.0348,0.627,0.421,0.0898,0.122,103.773,239960.0,4.0,19.0
+4,1.0,Where Do You Go,Where Do You Go,No Mercy,['No Mercy'],37tzoWY1ubBQKGXiWdO5Qv,0.734,0.828,10.0,-11.018,0.0,0.0318,0.0346,0.118,0.071,0.964,127.06,272093.0,4.0,17.0
+5,1.0,Twisted,Twisted,Keith Sweat,['Keith Sweat'],69QIVIjPMnI1ABLBqh9P1b,0.615,0.514,11.0,-9.759,1.0,0.0466,0.393,0.0,0.248,0.822,175.849,260667.0,4.0,19.0
+6,1.0,Change The World,Change the World,Eric Clapton,['Eric Clapton'],6BQNJ0JFKh8sWjQLI6Zudi,0.721,0.558,9.0,-8.8,1.0,0.0246,0.492,0.00563,0.113,0.542,96.887,234867.0,4.0,15.0
+7,0.33089430894308947,This Is For The Lover In You,"This Is for the Lover In You (feat. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels)","Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels","['Babyface', 'LL Cool J', 'Howard Hewett', 'Jody Watley', 'Jeffrey Daniels']",1blZP5x1XQSqQFpTy12rFh,0.887,0.416,1.0,-7.346,1.0,0.0518,0.0295,1.06e-05,0.066,0.761,94.013,239733.0,4.0,1.0
+8,0.7040816326530612,"Last Night (From ""The Nutty Professor"")",Last Night,Az Yet,['Az Yet'],2mj1Z5bqu0UfW4o4a7UxpW,0.555,0.543,3.0,-8.874,0.0,0.0272,0.428,0.0,0.105,0.359,164.021,269027.0,4.0,10.0
+9,1.0,Mouth,Mouth,Merril Bainbridge,['Merril Bainbridge'],11Ki2bHWXTEug0DAfKcDDD,0.695,0.499,1.0,-9.201,1.0,0.218,0.702,5.85e-05,0.154,0.78,175.896,205733.0,4.0,8.0
+10,0.4375,Nobody,Nobody (feat. Athena Cage),Keith Sweat Featuring Athena Cage,"['Keith Sweat', 'Athena Cage']",4SF1747p541umnykBp352Q,0.699,0.492,9.0,-9.449,0.0,0.0318,0.484,0.0,0.0482,0.388,117.907,264773.0,4.0,4.0
+11,1.0,C'mon N' Ride It (The Train),C'mon N' Ride It (The Train),Quad City DJ's,"[""Quad City DJ's""]",2QLEN3RVunMas7j0PHjeAT,0.843,0.959,6.0,-4.933,0.0,0.0914,0.0913,0.0,0.408,0.923,135.988,451440.0,4.0,33.0
+12,1.0,If It Makes You Happy,If It Makes You Happy,Sheryl Crow,['Sheryl Crow'],5XrfFo0JFOnWD9ZMNXGkQh,0.543,0.681,7.0,-7.091,1.0,0.0289,0.0482,8.43e-05,0.104,0.292,95.415,323400.0,4.0,6.0
+13,1.0,Key West Intermezzo (I Saw You First),Key West Intermezzo (I Saw You First),John Mellencamp,['John Mellencamp'],43bvQNBz3LPzTxEgPSs9qQ,0.673,0.858,11.0,-6.511,1.0,0.027,0.005,1.92e-05,0.274,0.959,116.477,294293.0,4.0,9.0
+14,1.0,If Your Girl Only Knew,If Your Girl Only Knew,Aaliyah,['Aaliyah'],1WKz2dJbsK0S56zvpnhFWU,0.841,0.741,9.0,-3.487,0.0,0.0359,0.137,0.000445,0.11,0.834,88.408,290960.0,4.0,9.0
+15,0.8888888888888888,You're Makin' Me High/Let It Flow,You're Makin' Me High,Toni Braxton,['Toni Braxton'],5bJ796cOnGBzSN5bm4mwMj,0.853,0.563,10.0,-8.663,0.0,0.0379,0.0118,2.12e-05,0.119,0.893,92.112,267440.0,4.0,21.0
+16,1.0,When You Love A Woman,When You Love a Woman,Journey,['Journey'],4b79AEQyxEVoiGMyBUv0io,0.514,0.514,1.0,-5.82,1.0,0.0275,0.253,0.0,0.258,0.218,132.145,246987.0,4.0,1.0
+17,1.0,Pony,Pony,Ginuwine,['Ginuwine'],6mz1fBdKATx6qP4oP1I65G,0.749,0.605,8.0,-9.359,0.0,0.086,0.00186,0.0381,0.115,0.966,142.024,251733.0,4.0,8.0
+18,1.0,You Learn/You Oughta Know,You Learn - 2015 Remaster,Alanis Morissette,['Alanis Morissette'],4l7YIni9bAiGwWMqK5wvgV,0.401,0.706,8.0,-7.554,1.0,0.0404,0.00415,0.0,0.0916,0.458,168.669,239640.0,4.0,14.0
+19,0.6842105263157895,Loungin,Loungin (Who Do Ya Luv) - Remix,LL Cool J,['LL Cool J'],0UN5OvKlbg06LnZyVk48ll,0.817,0.584,7.0,-9.785,1.0,0.174,0.432,0.00609,0.225,0.501,99.947,229373.0,4.0,17.0
+20,1.0,Bow Down,Bow Down,Westside Connection,['Westside Connection'],2Vpj5colB0MPy3Zg5SITEC,0.897,0.458,9.0,-11.01,1.0,0.279,0.0208,0.0,0.419,0.513,92.928,206827.0,4.0,5.0
+21,1.0,Un-Break My Heart,Un-Break My Heart,Toni Braxton,['Toni Braxton'],5Ihd9HrPvOADyVoonH9ZjB,0.625,0.426,2.0,-8.4,0.0,0.0271,0.412,0.0,0.116,0.112,110.021,270333.0,4.0,1.0
+22,0.7686567164179104,Counting Blue Cars,Counting Blue Cars (Tell Me Your Thoughts On God),Dishwalla,['Dishwalla'],6B618H5CuCdEzcVs0NKTlt,0.454,0.79,11.0,-4.361,0.0,0.0285,0.00604,3.09e-05,0.225,0.362,100.225,291907.0,4.0,30.0
+23,1.0,Let's Make A Night To Remember,Let's Make A Night To Remember,Bryan Adams,['Bryan Adams'],3wgNhWuV5gkcEkTgMBNcoA,0.469,0.621,0.0,-6.763,1.0,0.0253,0.205,0.000776,0.135,0.395,175.906,378907.0,4.0,9.0
+24,1.0,Give Me One Reason,Give Me One Reason,Tracy Chapman,['Tracy Chapman'],4vDBJeeQCbhP9FaPPMsYkY,0.608,0.419,11.0,-10.016,1.0,0.0331,0.602,7.58e-06,0.108,0.602,100.22,268333.0,4.0,30.0
+25,1.0,I Can't Sleep Baby (If I),I Can't Sleep Baby (If I),R. Kelly,['R. Kelly'],6JR2utS6oY0U6OVDmIHiqV,0.701,0.515,4.0,-7.899,0.0,0.0326,0.23,0.0,0.262,0.232,120.202,330720.0,4.0,16.0
+26,0.6904761904761905,This Is Your Night,Antisocial,Amber,"['Cemre Emin', 'Justtjokay', 'Cam Hertz']",5CzE08tzUxOHxWJCDlW3Ty,0.662,0.478,1.0,-11.085,0.0,0.0587,0.00719,0.00371,0.209,0.253,89.972,184665.0,4.0,20.0
+27,0.1987281399046105,Only You,Only You (feat. The Notorious B.I.G. & Mase) - Bad Boy Remix,112 Featuring The Notorious B.I.G.,"['112', 'The Notorious B.I.G.', 'Mase']",6zOg9gP62RJSsKFeOBAgvH,0.764,0.525,8.0,-5.969,1.0,0.048,0.0296,0.0,0.0993,0.787,95.813,289413.0,4.0,22.0
+28,0.7413793103448276,"Tell Me (From ""Eddie"")",Tell Me,Dru Hill,['Dru Hill'],58D9AHRscmmc6HsNtIll6f,0.723,0.297,6.0,-9.903,1.0,0.0326,0.231,0.0,0.115,0.541,130.182,253667.0,4.0,9.0
+29,0.4583333333333333,How Do U Want It/California Love,How Do U Want It,2Pac Featuring K-Ci And JoJo,"['2Pac', 'K-Ci & JoJo']",1ZB2zIoc8AjSuyqKRcJgbO,0.828,0.81,8.0,-2.151,1.0,0.101,0.121,3.02e-06,0.0495,0.838,92.46,287760.0,4.0,20.0
+30,1.0,Who Will Save Your Soul,Who Will Save Your Soul,Jewel,['Jewel'],0OH8dSQmKm2zjhqRPYsk1h,0.686,0.468,7.0,-9.712,1.0,0.042,0.7,0.00101,0.13,0.753,126.172,239293.0,4.0,22.0
+31,0.7432432432432432,Po Pimp,Po Pimp,Do Or Die (Featuring Twista),['Do Or Die'],66AMCAjrOk7c957i3ej06f,0.81,0.428,0.0,-14.248,1.0,0.272,0.0623,0.0,0.116,0.649,142.075,234827.0,4.0,13.0
+32,1.0,Sittin' On Top Of The World,Sittin' On Top Of The World,Da Brat,['Da Brat'],6NWZkG7pv1raYZB1FVWMKA,0.794,0.673,7.0,-5.924,1.0,0.231,0.0383,0.000281,0.224,0.686,92.965,239173.0,4.0,3.0
+33,1.0,What Kind Of Man Would I Be,What Kind Of Man Would I Be,Mint Condition,['Mint Condition'],5qR3pYQIC10S7aD2YBjgui,0.651,0.498,0.0,-8.868,0.0,0.0318,0.39,0.0,0.143,0.423,109.906,264600.0,4.0,8.0
+34,0.38956433637284704,"Missing You (From ""Set It Off"")",Missing You,"Brandy, Tamia, Gladys Knight & Chaka Khan","['Brandy', 'Tamia', 'Gladys Knight', 'Chaka Khan']",0BP2RFjKRSmNtkJW3f1nhR,0.581,0.505,4.0,-5.434,1.0,0.0309,0.231,0.0,0.142,0.131,135.594,252494.0,4.0,10.0
+35,0.6702586206896552,My Boo,My Boo - Hitman's Club Mix,Ghost Town DJ's,['Ghost Town DJs'],4c0rkFPszqQTyC753tsCMU,0.885,0.477,6.0,-9.196,0.0,0.0664,0.000131,0.000664,0.336,0.691,130.078,346840.0,4.0,17.0
+36,1.0,Falling,Falling,Montell Jordan,['Montell Jordan'],6b0mf7tkMei83pEeITIqIf,0.742,0.424,0.0,-5.696,1.0,0.0457,0.119,0.0104,0.263,0.414,79.956,241533.0,4.0,4.0
+37,0.9923076923076923,"Insensitive (From ""Bed Of Roses"")","Insensitive - Live / From ""Jann""",Jann Arden,['Jann Arden'],7JSGvI8kUk4Z3wnyjWCkbh,0.542,0.297,2.0,-11.921,1.0,0.0377,0.564,0.000489,0.706,0.216,86.053,257787.0,4.0,38.0
+38,1.0,Use Your Heart,Use Your Heart,SWV,['SWV'],1iXtpeHC0i6c7JBrKi3yaq,0.623,0.479,9.0,-8.457,1.0,0.0389,0.17,0.00561,0.341,0.602,73.968,289000.0,4.0,11.0
+39,1.0,Nowhere To Go,Nowhere To Go,Melissa Etheridge,['Melissa Etheridge'],035Wi3SCHzijMtWdhVv5K8,0.51,0.421,4.0,-11.24,1.0,0.0268,0.173,1.64e-05,0.187,0.215,102.577,353040.0,4.0,3.0
+40,1.0,Macarena,Macarena,Los Del Rio,['Los Del Rio'],4oaj36KzXRgDg4McgcTsZK,0.927,0.721,8.0,-12.561,1.0,0.0908,0.422,4.36e-05,0.0422,0.965,103.018,249382.0,4.0,17.0
+41,0.881578947368421,Ascension (Don't Ever Wonder),Ascension (Don't Ever Wonder) - Remastered 2021,Maxwell,['Maxwell'],6l4TNbfPtNAOOlGIfceSaO,0.762,0.459,0.0,-10.307,1.0,0.0379,0.111,0.0219,0.147,0.749,96.069,345976.0,4.0,11.0
+42,1.0,Always Be My Baby,Always Be My Baby,Mariah Carey,['Mariah Carey'],2aBxt229cbLDOvtL7Xbb9x,0.65,0.531,4.0,-8.335,1.0,0.0364,0.457,0.0,0.249,0.487,78.946,258133.0,4.0,30.0
+43,0.8666666666666667,Follow You Down/Til I Hear It From You,Follow You Down - Edit,Gin Blossoms,['Gin Blossoms'],5f2wSctNJlAOUAaRxQAcoM,0.49,0.883,4.0,-8.736,0.0,0.0423,0.0121,0.0,0.0635,0.684,155.832,227707.0,4.0,38.0
+44,1.0,Birmingham,Birmingham,Amanda Marshall,['Amanda Marshall'],7uq3apmiiLp8WbgcbDZe6X,0.525,0.726,7.0,-8.381,1.0,0.0306,0.04,0.00332,0.0564,0.686,185.513,321067.0,4.0,5.0
+45,0.6909090909090909,"What's Love Got To Do With It (From ""Supercop"")","What If I Loved You (From ""Return to Me"")",Warren G Featuring Adina Howard,"['Joey Gian', 'Warren Luening']",1VU5UFUX4P2WHmAu9ZrFTq,0.463,0.296,4.0,-13.196,1.0,0.0401,0.475,0.0,0.0351,0.531,139.294,144467.0,4.0,6.0
+46,0.8571428571428572,Dance Into The Light,Dance into the Light - 2016 Remaster,Phil Collins,['Phil Collins'],6JRBGmf5T7QjFQPWTwBdbs,0.612,0.84,7.0,-5.342,1.0,0.0422,0.0252,0.00262,0.042,0.907,87.862,264827.0,3.0,1.0
+47,1.0,Sweet Dreams,Sweet Dreams,La Bouche,['La Bouche'],2wz5weI4PREzpexKfrKgwv,0.656,0.956,11.0,-5.647,0.0,0.0536,0.0784,0.0247,0.0923,0.831,133.713,204587.0,4.0,31.0
+48,1.0,Hit Me Off,Hit Me Off,New Edition,['New Edition'],0yNCFwihschpOwSgK31f2O,0.72,0.719,7.0,-4.571,0.0,0.0882,0.185,0.000128,0.522,0.899,88.987,261400.0,4.0,9.0
+49,1.0,Nobody Knows,Nobody Knows,The Tony Rich Project,['The Tony Rich Project'],2PsHIonOTmX6bSrzIJSjyS,0.64,0.433,5.0,-9.432,1.0,0.0375,0.509,5.16e-06,0.103,0.25,176.088,306933.0,4.0,46.0
+50,1.0,Music Makes Me High,Music Makes Me High,Lost Boyz,['Lost Boyz'],7MAUQy99aM2AutCLYPj2Cb,0.841,0.599,1.0,-3.121,1.0,0.161,0.0029,0.0,0.296,0.56,94.145,270973.0,4.0,4.0
+51,1.0,Jealousy,Jealousy,Natalie Merchant,['Natalie Merchant'],3qcVyKUKAOfBoQJsxHfhmW,0.723,0.521,0.0,-9.78,1.0,0.028,0.296,0.0406,0.0998,0.61,101.127,161533.0,4.0,20.0
+52,1.0,Elevators (Me & You),Elevators (Me & You),OutKast,['Outkast'],2oLwDI8tZUOh6SmTMRRfKs,0.772,0.586,10.0,-10.434,0.0,0.301,0.0234,0.000722,0.0562,0.643,85.068,265200.0,4.0,14.0
+53,0.7950819672131147,Floatin' On Your Love,Floatin' On Your Love,The Isley Brothers Featuring Angela Winbush,"['The Isley Brothers', 'Ronald Isley']",3ZGQj5ctvHDg8M66psz0PY,0.653,0.373,11.0,-7.758,0.0,0.0578,0.677,0.00534,0.119,0.789,90.309,249067.0,4.0,5.0
+54,0.7833333333333333,"Bohemian Rhapsody (From ""High School High"")",Bohemian Rhapsody,The Braids,['The Braids'],3TAWWWIwm0g7PDGGL70tNn,0.523,0.627,5.0,-6.454,0.0,0.101,0.0134,0.000317,0.152,0.559,167.993,238386.0,4.0,2.0
+55,0.78125,"That Thing You Do! (From ""That Thing You Do!"")",That Thing You Do!,The Wonders,['The Wonders'],4O6ZaZrRCFfiZZKjnrXqlk,0.598,0.874,9.0,-4.222,1.0,0.0432,0.0446,5.86e-06,0.094,0.962,134.52,166773.0,4.0,3.0
+56,1.0,Ready To Go,Ready to Go,Republica,['Republica'],5Qt8U8Suu7MFH1VcJr17Td,0.559,0.953,2.0,-4.657,1.0,0.0568,0.000283,0.188,0.187,0.236,130.053,301067.0,4.0,12.0
+57,1.0,Stupid Girl,Stupid Girl,Garbage,['Garbage'],3fNf71Ktya4CYMqGM6eRud,0.634,0.756,1.0,-4.81,0.0,0.0332,0.00251,0.000441,0.0427,0.661,119.948,258533.0,4.0,14.0
+58,0.9827586206896552,Do You Miss Me,Do You Miss Me?,Jocelyn Enriquez,['Jocelyn Enriquez'],6hpkEh9z1tuhOQPlCunMaj,0.72,0.872,11.0,-8.705,0.0,0.0631,0.00265,0.00192,0.259,0.755,129.956,218253.0,4.0,14.0
+59,1.0,Let's Get The Mood Right,Let's Get The Mood Right,Johnny Gill,['Johnny Gill'],6Rm7xbB9i6h144squqLeBy,0.537,0.374,4.0,-10.16,1.0,0.0339,0.409,0.0,0.0935,0.372,179.719,315240.0,3.0,6.0
+60,0.5447928331466965,One And One,One and One - Radio Version,Robert Miles Featuring Maria Nayler,"['Robert Miles', 'Maria Nayler']",7z7fXw38aEXFvKpUZ41b3l,0.647,0.676,2.0,-9.893,0.0,0.0288,0.0473,0.000497,0.0381,0.797,120.061,241030.0,4.0,4.0
+61,0.8666666666666667,The Things That You Do,The Things That You Do - Bad Boy Remix,Gina Thompson,['Gina Thompson'],1I8SqBOR5G5UFR9BJfZYmu,0.659,0.914,4.0,-5.494,1.0,0.115,0.336,5.14e-05,0.0986,0.594,91.992,273627.0,4.0,16.0
+62,1.0,Steelo,Steelo,702,['702'],5OQO6NEs89flntUWPtXUiG,0.767,0.731,8.0,-8.109,0.0,0.114,0.103,0.00364,0.102,0.678,90.997,257960.0,4.0,7.0
+63,1.0,Your Secret Love,Your Secret Love,Luther Vandross,['Luther Vandross'],56JRqiQ6QRaehxkG8852pL,0.658,0.688,5.0,-7.049,0.0,0.0297,0.191,1.23e-06,0.173,0.424,143.804,252600.0,4.0,6.0
+64,0.782051282051282,That Girl,That Girl,Maxi Priest Featuring Shaggy,"['Maxi Priest', 'Shaggy']",2NFTEx9YLvWs4fWgKD0mZ9,0.68,0.685,5.0,-7.343,0.0,0.142,0.059,0.0,0.318,0.619,138.716,240893.0,4.0,18.0
+65,0.8691796008869179,Tell Me (I'll Be Around),Mood Swing Misery,Shades,"['Pouya', 'Rocci']",5OoH6HSheF3LbwnGbpKSFa,0.688,0.568,10.0,-6.951,0.0,0.0432,0.0985,1.49e-05,0.154,0.366,82.525,154182.0,4.0,13.0
+66,1.0,Tucker's Town,Tucker's Town,Hootie & The Blowfish,['Hootie & The Blowfish'],5wDeYEOMGyOEKjlo7bbKsE,0.419,0.666,0.0,-7.781,1.0,0.0401,0.0372,0.0,0.281,0.481,79.78,241973.0,4.0,16.0
+67,0.9166666666666667,"Why Does It Hurt So Bad (From ""Waiting To Exhale"")",Why Does It Hurt So Bad - from Waiting to Exhale - Original Soundtrack,Whitney Houston,['Whitney Houston'],7hbUoBUewDxW0Pceqxw3g2,0.625,0.422,10.0,-8.061,1.0,0.0238,0.139,0.0,0.209,0.259,76.862,278027.0,4.0,13.0
+68,1.0,At Night I Pray,At Night I Pray,Wild Orchid,['Wild Orchid'],7jEC8cMF6Ssu4AyneXPhUF,0.608,0.785,2.0,-5.992,0.0,0.0891,0.439,0.0,0.0786,0.403,155.458,256600.0,4.0,5.0
+69,1.0,Blue,Blue,LeAnn Rimes,['LeAnn Rimes'],1g5EcKDECPxeI7kgkvcbxm,0.545,0.452,4.0,-8.604,1.0,0.0248,0.595,1.29e-06,0.161,0.297,91.294,169547.0,4.0,19.0
+70,0.7472826086956521,"Touch Myself (From ""Fled"")",Touch Myself - Remix,T-Boz,"['Richie Rich', 'T-Boz']",1qHj9v76opZtAIwKhLzFtr,0.851,0.523,5.0,-7.131,0.0,0.146,0.15,0.000953,0.169,0.814,88.886,250200.0,4.0,12.0
+71,1.0,You Can Make History (Young Again),You Can Make History (Young Again),Elton John,['Elton John'],2ChvdpARUc5va0hLi51Nmp,0.662,0.724,2.0,-9.109,1.0,0.0276,0.163,0.0129,0.365,0.481,92.274,294240.0,4.0,1.0
+72,0.8934426229508197,Don't Look Back In Anger,Don't Look Back In Anger - Remastered,Oasis,['Oasis'],12dU3vAh6AFoJkisorfoUl,0.328,0.936,0.0,-3.254,1.0,0.0628,0.0665,2.61e-06,0.165,0.31,162.97,289560.0,4.0,11.0
+73,1.0,The Child (Inside),The Child (Inside),Qkumba Zoo,['Qkumba Zoo'],41NMHDlXO1qeo8YYxcQDHU,0.694,0.923,4.0,-7.428,1.0,0.0382,0.185,0.00187,0.318,0.849,127.144,241507.0,4.0,3.0
+74,1.0,Strawberry Wine,Strawberry Wine,Deana Carter,['Deana Carter'],5Pgwi0iizu96RHxJ4xL3SH,0.572,0.449,1.0,-6.566,1.0,0.0264,0.314,0.0,0.0301,0.207,122.632,291533.0,3.0,4.0
+75,0.9029850746268657,You'll Be Mine (Party Time),You'll Be Mine (Party Time) - Single Mix,Gloria Estefan,['Gloria Estefan'],22E8duYxuw0vNHvmfya61l,0.796,0.932,1.0,-7.058,1.0,0.087,0.00951,1.11e-06,0.063,0.831,118.118,240293.0,4.0,8.0
+76,0.8200000000000001,"Tonight, Tonight","Tonight, Tonight - Remastered 2012",The Smashing Pumpkins,['The Smashing Pumpkins'],7bu0znpSbTks0O6I98ij0W,0.277,0.67,6.0,-9.381,1.0,0.0376,6.28e-05,0.751,0.237,0.217,148.342,254627.0,4.0,18.0
+77,1.0,Can't Knock The Hustle,Can't Knock The Hustle,JAY-Z,"['JAY-Z', 'Mary J. Blige']",05Iawel3maRW3mSHYmXxMZ,0.78,0.378,7.0,-11.481,1.0,0.464,0.197,0.0,0.0782,0.579,94.895,317800.0,4.0,7.0
+78,0.7857142857142857,All I See,All I Ask,A+,['Adele'],05TOt5Vz4StdjMpEdFPlvB,0.591,0.28,4.0,-5.494,1.0,0.0283,0.889,0.0,0.124,0.348,141.916,271800.0,4.0,13.0
+79,1.0,Jellyhead,Jellyhead,Crush,['Crush'],0xdFJkARYp9VZ2vfdNxkYX,0.681,0.968,2.0,-6.64,1.0,0.0393,0.0185,0.478,0.0477,0.965,136.986,262600.0,4.0,11.0
+80,0.6244444444444444,Like I Do,"The Man, The Myth, The Legend - Interlude",For Real,['Juice WRLD'],4sjdZEEQvR1sXrRNSuBfbA,0.667,0.447,2.0,-14.625,1.0,0.761,0.916,0.0,0.612,0.829,83.534,136545.0,3.0,2.0
+81,1.0,When Boy Meets Girl,When Boy Meets Girl,Total,['Total'],1S8nL8nzUNmLz9SbqdXLxE,0.681,0.542,6.0,-8.602,0.0,0.0422,0.412,0.0,0.0629,0.862,94.904,258573.0,4.0,1.0
+82,0.7564102564102564,Shake A Lil' Somethin'...,Shake A Lil' Somethin' (Original Street Mix Nasty),The 2 Live Crew,['2 LIVE CREW'],7MJTU6jULOZPAdlu8SPAfo,0.862,0.85,7.0,-6.075,1.0,0.196,0.0036,2.29e-05,0.271,0.507,137.531,241373.0,4.0,12.0
+83,1.0,Tonight Is The Night,Tonight Is The Night,Le Click,['Le Click'],0szxZG3QmQpMxrzmOjfDlm,0.846,0.72,11.0,-7.096,0.0,0.0506,0.00495,1.69e-05,0.329,0.864,133.658,233467.0,4.0,8.0
+84,0.8793103448275862,Everything Falls Apart/Small Wonders,Everything Falls Apart,dog's eye view,"[""Dog's Eye View""]",4l1W5SkH8EJJ9RQEq6UFMW,0.573,0.818,4.0,-5.157,1.0,0.0471,0.0465,0.0,0.111,0.789,128.987,234133.0,4.0,5.0
+85,0.7666666666666666,If I Ruled The World,If I Ruled the World (Imagine That) (feat. Lauryn Hill),Nas,"['Nas', 'Ms. Lauryn Hill']",5PQmSHzWnlgG4EBuIqjac2,0.879,0.564,10.0,-7.682,0.0,0.247,0.0474,9.43e-06,0.0519,0.523,93.908,282373.0,4.0,19.0
+86,0.43205574912891986,"I Like (From ""The Nutty Professor"")",I Like,Montell Jordan Featuring Slick Rick,"['Montell Jordan', 'Slick Rick']",4ApalXtrakg9pfXbnHjpHr,0.849,0.587,8.0,-4.703,1.0,0.103,0.0869,0.0,0.0913,0.59,95.906,281467.0,4.0,18.0
+87,0.8870967741935484,I Luv U Baby,I Luv U Baby - Edit,The Original,"['The Original', 'Walter Taieb']",0g9OCw6sY9ZLRA5KxRkcIQ,0.691,0.832,8.0,-6.403,1.0,0.0328,0.104,7.91e-06,0.267,0.899,126.827,213000.0,4.0,2.0
+88,1.0,I Don't Need Your Love,I Don't Need Your Love,Angelina,['Angelina'],2OP627zExZ2BoXlh5cyzut,0.852,0.872,8.0,-6.556,1.0,0.0412,0.0693,0.000361,0.0623,0.938,130.058,246240.0,4.0,2.0
+89,1.0,Missing You,Missing You,Tina Turner,['Tina Turner'],1M1mEgExNHgA8PcjlHdHhE,0.665,0.665,9.0,-5.484,1.0,0.0318,0.129,0.0012,0.129,0.354,104.944,278200.0,4.0,4.0
+90,0.9375,DJ Girl,D.J. Girl,Katalina,['Katalina'],4Nu2HevmTMD9nD0xaWem0L,0.887,0.599,11.0,-12.187,0.0,0.0593,0.0272,0.000461,0.0662,0.949,125.936,219400.0,4.0,7.0
+91,1.0,Me And Those Dreamin' Eyes Of Mine,Me And Those Dreamin' Eyes Of Mine,D'Angelo,"[""D'Angelo""]",5MjUkhqCpr5uZ39xZmLZxe,0.511,0.402,4.0,-10.695,0.0,0.219,0.702,0.00014,0.11,0.503,83.339,286800.0,4.0,4.0
+92,1.0,Like A Woman,Like A Woman,The Tony Rich Project,['The Tony Rich Project'],6UxvgX1rJyKkuFlBuR6WJm,0.644,0.454,10.0,-7.559,1.0,0.0405,0.0277,0.185,0.131,0.622,80.046,244907.0,4.0,14.0
+93,1.0,Where It's At,Where It's At,Beck,['Beck'],3Pdjem5pj41gilOgXqkNtL,0.68,0.671,2.0,-7.142,1.0,0.0536,0.169,0.0286,0.076,0.532,96.941,330947.0,4.0,18.0
+94,0.38,Gettin' It,Gettin' It (feat. Parliament Funkadelic),Too Short Featuring Parliament Funkadelic,"['Too $hort', 'Parliament Funkadelic']",5K5dQsYdSdo2LKdepxbYAd,0.902,0.41,1.0,-5.31,1.0,0.219,0.176,0.0,0.119,0.647,84.07,341427.0,4.0,10.0
+95,1.0,Blackberry Molasses,Blackberry Molasses,Mista,['Mista'],0a25e134ccYhXxC2ajoyQr,0.765,0.387,0.0,-9.142,1.0,0.0283,0.26,7.57e-06,0.126,0.697,95.173,246453.0,4.0,18.0
+96,1.0,Guys Do It All The Time,Guys Do It All the Time,Mindy McCready,['Mindy McCready'],0uZRJmWi1TH3wrAN7hAbyF,0.551,0.794,0.0,-5.995,1.0,0.0341,0.0594,2.01e-05,0.231,0.587,165.813,191800.0,4.0,9.0
+97,0.8555555555555556,E-Bow The Letter,E-Bow The Letter - Remastered,R.E.M.,['R.E.M.'],3Qe0AH5LMEhGF9DMcZM9zl,0.379,0.629,2.0,-7.749,1.0,0.0314,0.235,0.00147,0.0761,0.369,155.202,324440.0,4.0,8.0
+98,0.5587431693989071,"Wu-Wear: The Garment Renaissance (From ""High School High"")",Wu-Wear: The Garment Renaissance (feat. Method Man & Cappadonna),RZA Feat. Method Man & Cappadonna,"['RZA', 'Method Man', 'Cappadonna']",6FtRe3Lr8OOLhJmLXinldq,0.894,0.635,1.0,-8.004,1.0,0.135,0.118,2.8e-06,0.0753,0.51,92.04,232560.0,4.0,11.0
+99,0.0,"Get Ready, Here It Comes (It's The Choo-Choo)",,Southsyde B.O.I.Z.,,,,,,,,,,,,,,,,
