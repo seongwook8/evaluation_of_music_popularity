@@ -8,8 +8,8 @@ var particles_2 = [];
 
 var features_1 = Levitating_feature; //Change here
 var features_2 = Bohemian_Rhapsody_feature;
-var song_load_1 = "../music_library/Levitating.mp3";
-var song_load_2 = "../music_library/Bohemian_Rhapsody.mp3";
+var song_load_1 = "./static/music_library/Levitating.mp3";
+var song_load_2 = "./static/music_library/Bohemian_Rhapsody.mp3";
 
 var flag1 = false;
 var flag2 = false;
