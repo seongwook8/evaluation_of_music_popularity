@@ -1,0 +1,3 @@
+In this folder, "/sample_by_popularity", weekly charts data from 2011 to 2020 are combined.
+The songs from these weekly charts are then sorted by "weeks", which is the # of weeks a song stayed on chart.
+Then with this combined dataframe, sample popularity is determined by a factor of whether a song stayed on chart for more than 10 weeks or not. This condition split the dataframe of 4000 songs into two separate dataframes with approximately 2000 songs each.
