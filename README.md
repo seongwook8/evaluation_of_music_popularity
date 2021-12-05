@@ -30,6 +30,8 @@ The circle in the middle represents the energy of different frequencies, and the
 
 The number of particles flying away from the middle is generated according to the speechiness of the song, which means more lyrics, more particles. In addition, the speed of particles flying is affected by the song's tempo. Also, once the beat kicks in, the particles accelerate from the middle.
 
+The last two charts show 1) Musical Features Trends for each of the features extracted from the popular songs and 2) ML Model Performance Metric from the year 1980 to 2021. There are 12 different features to choose from including: danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration_ms.
+
 
 ## Related files
     1. index.html
@@ -50,11 +52,11 @@ The number of particles flying away from the middle is generated according to th
     3. 301~500
     4. 501~700
     5. 701~1000
-
+    
     In addition, glowing effect on the outer ring correspond to the frequency between 1200~1300
-
+    
     The colors of the rings correspond to the keys of the music. For example:
-
+    
     Key 0 -> Red
     Key 6 -> Purple
     Key 7 -> Orange
@@ -65,5 +67,4 @@ The number of particles flying away from the middle is generated according to th
     2. Run the following command 
     ```
     python3 -m http.server <port>
-
 
