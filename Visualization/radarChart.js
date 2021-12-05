@@ -55,7 +55,8 @@ function RadarChart(id, data, options, file, Identify) {
     .append("svg")
     .attr("width", cfg.w + cfg.margin.left + cfg.margin.right)
     .attr("height", cfg.h + cfg.margin.top + cfg.margin.bottom)
-    .attr("class", "radar" + id);
+    .attr("class", "radar" + id)
+    .style("font", "14px arial");
 
   var title = svg
     .append("text")
@@ -161,7 +162,7 @@ function RadarChart(id, data, options, file, Identify) {
       return (-d * radius) / cfg.levels;
     })
     .attr("dy", "0.4em")
-    .style("font-size", "10px")
+    .style("font-size", "13px")
     .attr("fill", "#737373")
     .text(function (d, i) {
       return Format((maxValue * d) / cfg.levels / 100);
@@ -193,7 +194,7 @@ function RadarChart(id, data, options, file, Identify) {
   axis
     .append("text")
     .attr("class", "legend")
-    .style("font-size", "11px")
+    .style("font-size", "14px")
     .attr("text-anchor", "middle")
     .attr("dy", "0.35em")
     .attr("x", function (d, i) {

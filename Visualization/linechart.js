@@ -32,11 +32,11 @@ function LineChart(file_path) {
     .text("Years");
 
   svg.append("text")
-    .attr("class", "y label")
-    .attr("text-anchor", "end")
-    .attr("y", 6)
-    .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
+    .attr("y", 0 - 50)
+    .attr("x",0 - (height / 2))
+    .attr("dy", "1em")
+    .style("text-anchor", "middle")
     .text("Normalized features");
 
   var svg2 = d4.select("#myMlGraph")
@@ -61,15 +61,15 @@ function LineChart(file_path) {
     .attr("class", "x label")
     .attr("text-anchor", "end")
     .attr("x", width / 2)
-    .attr("y", height + 40)
+    .attr("y", height + 60)
     .text("Years");
 
   svg2.append("text")
-    .attr("class", "y label")
-    .attr("text-anchor", "end")
-    .attr("y", 6)
-    .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
+    .attr("y", 0 - 50)
+    .attr("x",0 - (height / 2))
+    .attr("dy", "1em")
+    .style("text-anchor", "middle")
     .text("Performance metric (%)");
 
   // legend setup
