@@ -5,7 +5,7 @@ Predicting music trends through pre-defined popularity
 Extracts data from billboards api and spotify api.
 
 Install billboards api
-'''bash
+'''
 pip install billboard.py
 '''
 
@@ -13,7 +13,7 @@ Must also have access to spotify api. Details on using the spotiy api can be fou
 
 Use the requirements.txt file to install all the required dependencies for running any files in code folder.
 
-'''bash
+'''
 conda create --name <env> --file requirements.txt
 '''
 
