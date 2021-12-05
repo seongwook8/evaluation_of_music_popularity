@@ -1,5 +1,6 @@
 # CSE6242_FinalProject
 Predicting music trends through pre-defined popularity
+https://awesomebit.github.io/CSE6242/
 
 ## Data extraction / Machine Learning model training
 Extracts data from billboards api and spotify api.
