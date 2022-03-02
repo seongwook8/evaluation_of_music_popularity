@@ -4,6 +4,9 @@ https://awesomebit.github.io/CSE6242/
 
 [Project Report](https://github.com/seongwook8/music_popularity/blob/main/Proposal/team046proposal.pdf)
 
+[Project Poster](https://github.com/seongwook8/music_popularity/blob/main/team046poster.pdf)
+
+[Poster Presentation](https://youtu.be/3aA1D8fPAXM)
 ## Data extraction / Machine Learning model training
 Extracts data from billboards api and spotify api.
 
