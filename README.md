@@ -2,6 +2,8 @@
 Predicting music trends through pre-defined popularity
 https://awesomebit.github.io/CSE6242/
 
+[Project Report](https://github.com/seongwook8/music_popularity/blob/main/Proposal/team046proposal.pdf)
+
 ## Data extraction / Machine Learning model training
 Extracts data from billboards api and spotify api.
 
