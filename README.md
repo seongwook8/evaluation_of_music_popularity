@@ -1,4 +1,4 @@
-# CSE6242_FinalProject
+# Evaluation of Music Popularity
 Predicting music trends through pre-defined popularity
 https://awesomebit.github.io/CSE6242/
 
